@@ -1,0 +1,36 @@
+id: panic
+title: Panic / Overwhelm
+language_support: [en, es]
+steps:
+  - id: consent_check
+    type: message
+    en: "I’m here with you. Before we start: this is not medical care. If you’re in danger or might harm yourself, reply 'HELP'."
+    es: "Estoy aquí contigo. Antes de empezar: esto no es atención médica. Si estás en peligro o podrías lastimarte, escribe 'AYUDA'."
+  - id: breathe_intro
+    type: message
+    en: "Let’s slow things down together. We’ll try a short 4–4–6 breath."
+    es: "Vamos a bajar el ritmo juntos. Probemos una respiración 4–4–6."
+  - id: breathe_steps
+    type: sequence
+    en:
+      - "Inhale through your nose for 4…"
+      - "Hold for 4…"
+      - "Exhale slowly for 6…"
+      - "Repeat 4 times. I’ll count with you."
+    es:
+      - "Inhala por la nariz durante 4…"
+      - "Mantén por 4…"
+      - "Exhala lentamente durante 6…"
+      - "Repite 4 veces. Cuento contigo."
+  - id: grounding
+    type: message
+    en: "Name 5 things you can see, 4 you can feel, 3 you can hear, 2 you can smell, 1 you can taste."
+    es: "Nombra 5 cosas que ves, 4 que sientes, 3 que oyes, 2 que hueles, 1 que saboreas."
+  - id: affirmation
+    type: message
+    en: "You’re doing your best right now. Your feelings are real. They will pass."
+    es: "Estás haciendo lo mejor que puedes. Tus sentimientos son reales. Van a pasar."
+  - id: mood_post
+    type: prompt
+    en: "0–10, how do you feel now?"
+    es: "Del 0 al 10, ¿cómo te sientes ahora?"

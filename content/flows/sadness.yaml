@@ -1,0 +1,24 @@
+id: sadness
+title: Sadness
+language_support: [en, es]
+steps:
+  - id: validate
+    type: message
+    en: "I’m sorry you’re hurting. Let’s take this slowly."
+    es: "Siento que estés pasando por esto. Vamos despacio."
+  - id: breathe
+    type: message
+    en: "Try a 4–6 breath: inhale 4, exhale 6, 6 times."
+    es: "Prueba respiración 4–6: inhala 4, exhala 6, 6 veces."
+  - id: self_compassion
+    type: message
+    en: "Place a hand on your chest. Say: ‘I deserve care right now.’"
+    es: "Coloca una mano en tu pecho. Di: ‘Merezco cuidado ahora mismo.’"
+  - id: tiny_step
+    type: message
+    en: "Choose one gentle step after this chat (water, stretch, step outside)."
+    es: "Elige un paso suave después de este chat (agua, estirar, salir un momento)."
+  - id: mood_post
+    type: prompt
+    en: "0–10, how do you feel now?"
+    es: "Del 0 al 10, ¿cómo te sientes ahora?"

@@ -1,0 +1,24 @@
+id: detachment
+title: Detachment / Numbness
+language_support: [en, es]
+steps:
+  - id: orient
+    type: message
+    en: "Let’s gently reconnect. Look around and say out loud where you are and today’s date."
+    es: "Vamos a reconectar con suavidad. Mira a tu alrededor y di en voz alta dónde estás y la fecha de hoy."
+  - id: sensory
+    type: message
+    en: "Place your feet on the ground. Press your hands together. Notice temperature and pressure."
+    es: "Pon tus pies en el suelo. Junta tus manos. Nota la temperatura y la presión."
+  - id: movement
+    type: message
+    en: "Roll your shoulders 5 times and stretch your neck slowly."
+    es: "Rueda los hombros 5 veces y estira el cuello lentamente."
+  - id: affirmation
+    type: message
+    en: "It’s okay to feel distant. You are safe in this moment."
+    es: "Está bien sentirse distante. Estás a salvo en este momento."
+  - id: mood_post
+    type: prompt
+    en: "0–10, how do you feel now?"
+    es: "Del 0 al 10, ¿cómo te sientes ahora?"

@@ -1,0 +1,17 @@
+text,intent,valence,arousal,lang
+"hi, can we talk?",greeting_start,neutral,medium,en
+"hola, ¿podemos hablar?",greeting_start,neutral,medium,es
+i feel so anxious right now,check_in_mood,negative,high,en
+me siento muy nervioso ahora,check_in_mood,negative,high,es
+can we do breathing?,breathing_exercise,neutral,medium,en
+necesito calmarme con respiración,breathing_exercise,negative,high,es
+"i feel numb, like not here",check_in_mood,negative,medium,en
+me siento desconectado,check_in_mood,negative,medium,es
+help me ground please,grounding_exercise,negative,medium,en
+quiero un ejercicio de arraigo,grounding_exercise,negative,medium,es
+i need something positive to say,affirmation_request,neutral,low,en
+quiero una afirmación,affirmation_request,neutral,low,es
+what resources can help?,info_help,neutral,low,en
+¿qué recursos hay para ayuda?,info_help,neutral,low,es
+"thanks, bye",thanks_goodbye,positive,low,en
+"gracias, adiós",thanks_goodbye,positive,low,es

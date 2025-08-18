@@ -1,0 +1,4 @@
+- No diagnosis, no treatment, no promises of confidentiality.
+- Always provide crisis resources when high-risk language is detected.
+- Clear opt-out and human-help options in every flow.
+- Lowest-data principle; aggregate reporting only.
