@@ -1,0 +1,1182 @@
+text,intent,valence,arousal,lang
+🤔 please!! 😟,fallback_clarify,neutral,low,en
+quiero escribir sobre esto pls. 😤,journal_prompt,neutral,low,es
+información de apoyo 🌿,info_help,neutral,low,es
+"me ayudó, buenas noches ahora! 🙏",thanks_goodbye,positive,low,es
+i'm angry tbh. 🙏,check_in_mood,negative,high,en
+what’s happening in my brain?. 💜,self_assess,neutral,medium,en
+why am i feeling this way? please...,self_assess,neutral,medium,en
+journal prompt please pls! ✨,journal_prompt,neutral,low,en
+necesito algo positivo pls 🌿,affirmation_request,neutral,low,es
+journal prompt please tbh... 😟,journal_prompt,neutral,low,en
+need reassurance tbh 🙏,affirmation_request,neutral,low,en
+necesito chatear ahora! 😥,greeting_start,neutral,medium,es
+i will hurt myself rn!! 🌿,crisis_emergency,negative,high,en
+¿qué pasa en mi cerebro? pls! 😤,self_assess,neutral,medium,es
+necesito chatear!! 😔,greeting_start,neutral,medium,es
+give me a writing prompt rn!! 😟,journal_prompt,neutral,low,en
+¿por qué me siento así? ahora. 😥,self_assess,neutral,medium,es
+quiero una frase de apoyo pls!! 😥,affirmation_request,neutral,low,es
+inglés por favor ahora. 🌿,language_switch,neutral,low,es
+estoy como desconectado porfa 😤,check_in_mood,negative,high,es
+what’s happening in my brain? rn!! 🌿,self_assess,neutral,medium,en
+is this normal? rn. 😤,self_assess,neutral,medium,en
+non-emergency support options tbh ✨,info_help,neutral,low,en
+estoy enojado... 🌿,check_in_mood,negative,high,es
+"this supported, goodnight pls 😟",thanks_goodbye,positive,low,en
+me siento ansioso porfa!!,check_in_mood,negative,high,es
+that’s all for now pls! ✨,thanks_goodbye,positive,low,en
+how do stress and emotions work? tbh! 😔,self_assess,neutral,medium,en
+🤔 ahora. 💜,fallback_clarify,neutral,low,es
+un prompt de diario 😥,journal_prompt,neutral,low,es
+i need a calm breathing routine rn! 🙏,breathing_exercise,neutral,medium,en
+¿hay alguien? por favor... 😥,greeting_start,neutral,medium,es
+algo que me anime porfa... 💜,affirmation_request,neutral,low,es
+i feel on edge tbh! 🌿,check_in_mood,negative,high,en
+how do stress and emotions work? rn... 😥 / ¿cómo funcionan el estrés y las emociones?,self_assess,neutral,medium,en
+un prompt de diario... ✨,journal_prompt,neutral,low,es
+i might overdose rn 🙏 / voy a lastimarme,crisis_emergency,negative,high,en
+estoy irritado... 🙏,check_in_mood,negative,high,es
+mmm... porfa. 🙏,fallback_clarify,neutral,low,es
+ayúdame a respirar! 😟,breathing_exercise,neutral,medium,es
+information about support rn.,info_help,neutral,low,en
+necesito calmarme con respirar pls!! 😟 / breathing exercise please,breathing_exercise,neutral,medium,es
+what’s happening in my brain? pls...,self_assess,neutral,medium,en
+why am i feeling this way? please. 🌿 / ¿esto es normal?,self_assess,neutral,medium,en
+"this helped, goodnight pls!! 😟",thanks_goodbye,positive,low,en
+estoy enojado porfa!! ✨,check_in_mood,negative,high,es
+un ejercicio de arraigo pls 🌿,grounding_exercise,negative,medium,es
+give me an encouraging words pls! 😟,affirmation_request,neutral,low,en
+i need to chat pls!! 😔,greeting_start,neutral,medium,en
+estoy como desconectado!! 🙏,check_in_mood,negative,high,es
+hi pls 😔 / necesito chatear,greeting_start,neutral,medium,en
+eso es todo por ahora porfa... 😤,thanks_goodbye,positive,low,es
+??? tbh!! 😤,fallback_clarify,neutral,low,en
+i’m dissociating rn!! 🌿,grounding_exercise,negative,medium,en
+cambiemos a inglés ahora!!,language_switch,neutral,low,es
+hmm please 😔 / ¿qué?,fallback_clarify,neutral,low,en
+who can i talk to nearby?! 😥,info_help,neutral,low,en
+¿podemos hablar? pls.,greeting_start,neutral,medium,es
+mmm... ahora... 😥 / what,fallback_clarify,neutral,low,es
+modo español! 😥,language_switch,neutral,low,es
+ayúdame a reflexionar pls... 😤,journal_prompt,neutral,low,es
+breathing exercise please tbh... 😟,breathing_exercise,neutral,medium,en
+podría tener una sobredosis pls!! 😥 / i might overdose,crisis_emergency,negative,high,es
+breathing exercise please please... 😔,breathing_exercise,neutral,medium,en
+can you assist me breathe? tbh ✨ / ayúdame a respirar,breathing_exercise,neutral,medium,en
+opciones de apoyo no urgente pls 💜,info_help,neutral,low,es
+kill myself rn!! 😥,crisis_emergency,negative,high,en
+give me an positive line tbh... 😔,affirmation_request,neutral,low,en
+i'm panicky tbh 🌿,check_in_mood,negative,high,en
+¿qué pasa en mi cerebro? ahora.,self_assess,neutral,medium,es
+eso es todo por ahora,thanks_goodbye,positive,low,es
+support me reflect tbh. 🙏 / una consigna para escribir,journal_prompt,neutral,low,en
+vuelvo luego porfa!! 🌿,thanks_goodbye,positive,low,es
+me siento ansioso. 💜 / i feel anxious,check_in_mood,negative,high,es
+me siento nervioso porfa! 😤,check_in_mood,negative,high,es
+modo español pls. 😟 / spanish mode,language_switch,neutral,low,es
+estoy como desconectado ahora!! 😔,check_in_mood,negative,high,es
+i will hurt myself rn 💜,crisis_emergency,negative,high,en
+necesito calmarme con respiración ahora!! 😥,breathing_exercise,neutral,medium,es
+¿podemos charlar? por favor. 💜 / hi,greeting_start,neutral,medium,es
+quiero sentirme presente ahora. ✨,grounding_exercise,negative,medium,es
+spanish please pls! 😤,language_switch,neutral,low,en
+what support options can support? rn ✨,info_help,neutral,low,en
+kill myself pls! 😤,crisis_emergency,negative,high,en
+quiero escribir sobre esto ahora. 🙏,journal_prompt,neutral,low,es
+podría tener una sobredosis por favor! 💜,crisis_emergency,negative,high,es
+voy a lastimarme pls 🌿,crisis_emergency,negative,high,es
+¿esto es normal? pls! 💜,self_assess,neutral,medium,es
+¿cómo funcionan el estrés y las emociones? porfa... 💜,self_assess,neutral,medium,es
+i feel on edge tbh 🌿,check_in_mood,negative,high,en
+english please rn. 🌿,language_switch,neutral,low,en
+what’s happening in my brain?! 😔,self_assess,neutral,medium,en
+¿qué recursos hay? pls... 😤,info_help,neutral,low,es
+spanish please rn!! 🌿,language_switch,neutral,low,en
+¿qué? ahora!!,fallback_clarify,neutral,low,es
+assist me reflect rn!! 😤,journal_prompt,neutral,low,en
+i will hurt myself tbh!! 💜,crisis_emergency,negative,high,en
+need to feel present pls... 😟,grounding_exercise,negative,medium,en
+spanish please pls!! 😟,language_switch,neutral,low,en
+i need a calm breathing routine tbh...,breathing_exercise,neutral,medium,en
+information about support rn!! 😔,info_help,neutral,low,en
+"this helped, goodnight!! 🌿",thanks_goodbye,positive,low,en
+una consigna para escribir por favor 😤,journal_prompt,neutral,low,es
+me siento triste por favor!! 🙏,check_in_mood,negative,high,es
+give me an positive line please! 😔,affirmation_request,neutral,low,en
+¿cómo funcionan el estrés y las emociones? por favor! 😥 / how do stress and emotions work?,self_assess,neutral,medium,es
+algo que me anime porfa! 🌿,affirmation_request,neutral,low,es
+kill myself please 😤 / voy a lastimarme,crisis_emergency,negative,high,en
+need reassurance pls... 😔,affirmation_request,neutral,low,en
+i need to chat please. 🌿 / ¿hay alguien?,greeting_start,neutral,medium,en
+non-emergency support options tbh!,info_help,neutral,low,en
+necesito calmarme con respiración ahora!! 💜 / breathing exercise please,breathing_exercise,neutral,medium,es
+hablemos en español porfa... ✨,language_switch,neutral,low,es
+non-emergency support options pls!! 💜,info_help,neutral,low,en
+ayúdame a reflexionar ahora ✨,journal_prompt,neutral,low,es
+is this normal? please... 😤,self_assess,neutral,medium,en
+ayúdame a respirar! 😔,breathing_exercise,neutral,medium,es
+¿cómo funcionan el estrés y las emociones? ahora. 💜 / what’s happening in my brain?,self_assess,neutral,medium,es
+¿qué recursos hay? por favor. 😟,info_help,neutral,low,es
+is anyone there? 😟,greeting_start,neutral,medium,en
+give me an affirmation rn / necesito algo positivo,affirmation_request,neutral,low,en
+"that’s all for now tbh. ✨ / me ayudó, buenas noches",thanks_goodbye,positive,low,en
+"me ayudó, buenas noches!! ✨",thanks_goodbye,positive,low,es
+quiero sentirme presente por favor!! 🙏,grounding_exercise,negative,medium,es
+cambiemos a inglés! 😟,language_switch,neutral,low,es
+hola! 😥,greeting_start,neutral,medium,es
+🤔 pls ✨,fallback_clarify,neutral,low,en
+me estoy desconectando por favor ✨,grounding_exercise,negative,medium,es
+necesito calmarme con respiración pls! 💜,breathing_exercise,neutral,medium,es
+hola porfa... 🙏,greeting_start,neutral,medium,es
+i feel blue today. 😤,check_in_mood,negative,high,en
+i'll come back later rn 😥,thanks_goodbye,positive,low,en
+¿hay alguien? pls 😥,greeting_start,neutral,medium,es
+"that’s all for now rn 😤 / gracias, adiós",thanks_goodbye,positive,low,en
+need reassurance tbh 🌿,affirmation_request,neutral,low,en
+hola 😟,greeting_start,neutral,medium,es
+who can i talk to nearby? tbh. 😥,info_help,neutral,low,en
+can we switch to english? rn!! 😥,language_switch,neutral,low,en
+breathing exercise please please... ✨,breathing_exercise,neutral,medium,en
+quiero escribir sobre esto por favor!! 😤,journal_prompt,neutral,low,es
+"me ayudó, buenas noches ahora... 😔",thanks_goodbye,positive,low,es
+i want to die pls... 🙏,crisis_emergency,negative,high,en
+can you support me breathe? rn. 😥,breathing_exercise,neutral,medium,en
+"this assisted, goodnight rn... ✨",thanks_goodbye,positive,low,en
+give me a writing prompt please,journal_prompt,neutral,low,en
+opciones de apoyo no urgente pls 🌿,info_help,neutral,low,es
+estoy en peligro ahora pls! ✨,crisis_emergency,negative,high,es
+🤔 tbh!! 🙏,fallback_clarify,neutral,low,en
+quiero una frase de apoyo ahora 😟,affirmation_request,neutral,low,es
+i might overdose please!! 😟,crisis_emergency,negative,high,en
+hmm pls! 🌿,fallback_clarify,neutral,low,en
+who can i talk to nearby? please!! 😟,info_help,neutral,low,en
+hello rn 😔,greeting_start,neutral,medium,en
+i might overdose rn.,crisis_emergency,negative,high,en
+voy a lastimarme por favor! 😔,crisis_emergency,negative,high,es
+mmm... ahora 😤,fallback_clarify,neutral,low,es
+¿qué? pls!! 🙏,fallback_clarify,neutral,low,es
+necesito calmarme con respiración ahora... 😔,breathing_exercise,neutral,medium,es
+me siento decaído ahora,check_in_mood,negative,high,es
+what’s happening in my brain? rn / ¿por qué me siento así?,self_assess,neutral,medium,en
+assist me reflect pls... 🌿,journal_prompt,neutral,low,en
+estoy como desconectado! ✨,check_in_mood,negative,high,es
+dame una frase positiva ahora!,affirmation_request,neutral,low,es
+dame una frase positiva... 🙏,affirmation_request,neutral,low,es
+no sé pls!! 🙏 / hmm,fallback_clarify,neutral,low,es
+who can i talk to nearby? rn!! 😔,info_help,neutral,low,en
+modo español por favor!!,language_switch,neutral,low,es
+what support options can support? pls! 🙏,info_help,neutral,low,en
+assist me reflect rn! 😟,journal_prompt,neutral,low,en
+give me an positive line pls 😟,affirmation_request,neutral,low,en
+"thanks, bye rn. 😤",thanks_goodbye,positive,low,en
+give me a writing prompt please 🌿,journal_prompt,neutral,low,en
+un ejercicio de respirar porfa 😥 / i need a calm breathing routine,breathing_exercise,neutral,medium,es
+dame una frase positiva ahora! 🌿,affirmation_request,neutral,low,es
+who can i chat to nearby?!! ✨ / opciones de ayuda no urgente,info_help,neutral,low,en
+need to feel present tbh! 💜,grounding_exercise,negative,medium,en
+hello tbh!! 🌿,greeting_start,neutral,medium,en
+is anyone there?!! 😥,greeting_start,neutral,medium,en
+"gracias, adiós porfa!! ✨",thanks_goodbye,positive,low,es
+i will hurt myself,crisis_emergency,negative,high,en
+¿con quién puedo charlar? por favor. 🌿,info_help,neutral,low,es
+cambiemos a inglés 😔,language_switch,neutral,low,es
+is anyone there?. ✨ / ¿podemos hablar?,greeting_start,neutral,medium,en
+can you support me breathing? rn. 😟,breathing_exercise,neutral,medium,en
+idk please! 🌿,fallback_clarify,neutral,low,en
+¿qué opciones de apoyo hay? porfa. 😟,info_help,neutral,low,es
+"me ayudó, buenas noches! ✨ / this helped, goodnight",thanks_goodbye,positive,low,es
+need reassurance please! 😔,affirmation_request,neutral,low,en
+ayúdame a respirar 😔 / can you help me breathe?,breathing_exercise,neutral,medium,es
+hmm please. 😔,fallback_clarify,neutral,low,en
+vuelvo luego! 😤,thanks_goodbye,positive,low,es
+spanish mode tbh... 😔 / modo español,language_switch,neutral,low,en
+cambiemos a inglés. ✨,language_switch,neutral,low,es
+inglés por favor ahora!! 🙏 / spanish mode,language_switch,neutral,low,es
+hola ahora!! 😤 / hi,greeting_start,neutral,medium,es
+hmm rn,fallback_clarify,neutral,low,en
+¿qué? ahora! 😟,fallback_clarify,neutral,low,es
+english please tbh. 💜,language_switch,neutral,low,en
+hello pls. 😟,greeting_start,neutral,medium,en
+estoy como desconectado.,check_in_mood,negative,high,es
+hmm tbh.,fallback_clarify,neutral,low,en
+opciones de ayuda no urgente por favor. 🌿,info_help,neutral,low,es
+"eso es todo por ahora pls ✨ / this helped, goodnight",thanks_goodbye,positive,low,es
+i need to chat please.,greeting_start,neutral,medium,en
+why am i feeling this way?! 💜,self_assess,neutral,medium,en
+kill myself pls 😔,crisis_emergency,negative,high,en
+no sé pls 🙏,fallback_clarify,neutral,low,es
+opciones de ayuda no urgente ahora... 😥,info_help,neutral,low,es
+what’s happening in my brain? pls!! 😔,self_assess,neutral,medium,en
+i want to die. 😥,crisis_emergency,negative,high,en
+una consigna para escribir! 😔,journal_prompt,neutral,low,es
+can you support me breathe? please! 💜 / ayúdame a respirar,breathing_exercise,neutral,medium,en
+what help options can support? please 🌿,info_help,neutral,low,en
+kill myself pls. 😥,crisis_emergency,negative,high,en
+ayúdame a respirar pls!! 😥,breathing_exercise,neutral,medium,es
+need reassurance pls! 🌿,affirmation_request,neutral,low,en
+estoy en peligro ahora por favor 😟,crisis_emergency,negative,high,es
+say something encouraging pls. 😔,affirmation_request,neutral,low,en
+vuelvo luego ahora... 😟,thanks_goodbye,positive,low,es
+"thanks, bye please...",thanks_goodbye,positive,low,en
+i want to write about this please! 💜,journal_prompt,neutral,low,en
+hello! 🌿,greeting_start,neutral,medium,en
+english please pls! ✨,language_switch,neutral,low,en
+i want to die tbh 😟,crisis_emergency,negative,high,en
+quiero escribir sobre esto porfa,journal_prompt,neutral,low,es
+spanish mode pls! 😤,language_switch,neutral,low,en
+breathing exercise please tbh 🌿,breathing_exercise,neutral,medium,en
+🤔 rn! 😟,fallback_clarify,neutral,low,en
+is this normal?!! ✨,self_assess,neutral,medium,en
+¿qué pasa en mi cerebro? ahora!! 😥,self_assess,neutral,medium,es
+grounding exercise please tbh! 🙏 / necesito arraigarme,grounding_exercise,negative,medium,en
+need reassurance... 😤,affirmation_request,neutral,low,en
+i want to die rn!,crisis_emergency,negative,high,en
+give me a writing prompt rn...,journal_prompt,neutral,low,en
+quiero escribir sobre esto por favor! 😟 / i want to write about this,journal_prompt,neutral,low,es
+??? tbh... / mmm...,fallback_clarify,neutral,low,en
+¿cómo funcionan el estrés y las emociones? por favor,self_assess,neutral,medium,es
+mmm...!! 😔,fallback_clarify,neutral,low,es
+who can i talk to nearby? please. 😔 / información de apoyo,info_help,neutral,low,en
+necesito algo positivo... 🌿,affirmation_request,neutral,low,es
+i'm panicky tbh!! 🙏,check_in_mood,negative,high,en
+información de apoyo ahora... 😤,info_help,neutral,low,es
+need to feel present tbh... 😔,grounding_exercise,negative,medium,en
+what pls!! 😥,fallback_clarify,neutral,low,en
+un ejercicio de arraigo por favor 🙏,grounding_exercise,negative,medium,es
+breathing exercise please rn... 😥,breathing_exercise,neutral,medium,en
+"me ayudó, buenas noches 😤 / that’s all for now",thanks_goodbye,positive,low,es
+dame una afirmación. 💜,affirmation_request,neutral,low,es
+what resources can support? pls! 💜,info_help,neutral,low,en
+un prompt de diario ahora 🙏,journal_prompt,neutral,low,es
+what resources can assist? tbh... 🙏,info_help,neutral,low,en
+opciones de apoyo no urgente pls!,info_help,neutral,low,es
+need reassurance rn 😟,affirmation_request,neutral,low,en
+give me a writing prompt!,journal_prompt,neutral,low,en
+why am i feeling this way? pls ✨,self_assess,neutral,medium,en
+i'm irritated rn! 🙏,check_in_mood,negative,high,en
+podría tener una sobredosis porfa... 😤 / i’m in danger right now,crisis_emergency,negative,high,es
+need reassurance pls 🌿,affirmation_request,neutral,low,en
+breathing exercise please tbh!! 😥,breathing_exercise,neutral,medium,en
+assist me reflect... 🙏,journal_prompt,neutral,low,en
+podría tener una sobredosis ahora 🌿,crisis_emergency,negative,high,es
+i want to write about this pls. 🌿,journal_prompt,neutral,low,en
+can we switch to english? rn!! 🙏,language_switch,neutral,low,en
+say something encouraging please! 🌿,affirmation_request,neutral,low,en
+¿esto es normal? porfa. 😔,self_assess,neutral,medium,es
+spanish please 😤 / cambiemos a inglés,language_switch,neutral,low,en
+kill myself rn!! 🌿,crisis_emergency,negative,high,en
+need reassurance please 💜 / quiero una frase de apoyo,affirmation_request,neutral,low,en
+i need a calm breathing routine please!! 💜,breathing_exercise,neutral,medium,en
+is this normal? tbh. 😔,self_assess,neutral,medium,en
+i feel numb. ✨,check_in_mood,negative,high,en
+necesito calmarme con respirar por favor 😥,breathing_exercise,neutral,medium,es
+¿cómo funcionan el estrés y las emociones?... 😔,self_assess,neutral,medium,es
+"this supported, goodnight please!! / gracias, adiós",thanks_goodbye,positive,low,en
+¿podemos hablar? por favor. 🙏 / i need to chat,greeting_start,neutral,medium,es
+i will hurt myself rn! 🙏,crisis_emergency,negative,high,en
+quiero escribir sobre esto por favor... ✨,journal_prompt,neutral,low,es
+voy a lastimarme pls! 😤,crisis_emergency,negative,high,es
+hello. 😥,greeting_start,neutral,medium,en
+help me ground,grounding_exercise,negative,medium,en
+necesito algo positivo porfa,affirmation_request,neutral,low,es
+hello tbh! 😤,greeting_start,neutral,medium,en
+say something encouraging rn!! 😔,affirmation_request,neutral,low,en
+give me a writing prompt pls 😥,journal_prompt,neutral,low,en
+quiero sentirme presente porfa...,grounding_exercise,negative,medium,es
+un ejercicio de respirar pls... 🙏 / breathing exercise please,breathing_exercise,neutral,medium,es
+quiero una frase de apoyo pls! 😟,affirmation_request,neutral,low,es
+can we switch to english? tbh... 💜,language_switch,neutral,low,en
+i'll come back later please.,thanks_goodbye,positive,low,en
+"this assisted, goodnight pls!! 💜",thanks_goodbye,positive,low,en
+dame una afirmación por favor... ✨,affirmation_request,neutral,low,es
+un prompt de diario!! 😔 / i want to write about this,journal_prompt,neutral,low,es
+información de apoyo ahora...,info_help,neutral,low,es
+un prompt de diario porfa. ✨,journal_prompt,neutral,low,es
+información de apoyo por favor! 😔,info_help,neutral,low,es
+ayúdame a reflexionar por favor,journal_prompt,neutral,low,es
+me quiero morir por favor! ✨,crisis_emergency,negative,high,es
+información de apoyo ahora. 💜,info_help,neutral,low,es
+cambiemos a inglés por favor!! 🙏,language_switch,neutral,low,es
+ayúdame a reflexionar ahora. 😔,journal_prompt,neutral,low,es
+me estoy desconectando 🙏 / i’m dissociating,grounding_exercise,negative,medium,es
+me siento ansioso ahora... 🌿 / i feel sad today,check_in_mood,negative,high,es
+i might overdose rn 🙏 / matarme,crisis_emergency,negative,high,en
+¿qué pasa en mi cerebro? por favor... 😔,self_assess,neutral,medium,es
+me siento nervioso por favor. 😤,check_in_mood,negative,high,es
+hablemos en español ahora... 😔,language_switch,neutral,low,es
+inglés por favor ahora... 🙏,language_switch,neutral,low,es
+¿con quién puedo charlar? ahora... 🙏,info_help,neutral,low,es
+modo español porfa! 💜 / spanish please,language_switch,neutral,low,es
+i need something positive rn! 😥,affirmation_request,neutral,low,en
+modo español porfa!,language_switch,neutral,low,es
+can you assist me breathe? please... 😤,breathing_exercise,neutral,medium,en
+¿qué? ahora 💜,fallback_clarify,neutral,low,es
+una consigna para escribir ahora 🌿,journal_prompt,neutral,low,es
+hola ahora... 😤,greeting_start,neutral,medium,es
+opciones de ayuda no urgente ahora. 😔,info_help,neutral,low,es
+un ejercicio de respirar ahora... 😥,breathing_exercise,neutral,medium,es
+hi rn!! 😤,greeting_start,neutral,medium,en
+give me a writing prompt pls 😟,journal_prompt,neutral,low,en
+cambiemos a inglés ahora!! / english please,language_switch,neutral,low,es
+i feel numb please. 🙏,check_in_mood,negative,high,en
+what please... 😟,fallback_clarify,neutral,low,en
+"thanks, bye tbh! 💜",thanks_goodbye,positive,low,en
+i need a calm breathing routine! 🙏,breathing_exercise,neutral,medium,en
+estoy en peligro ahora! 😟,crisis_emergency,negative,high,es
+i feel sad today rn!! 😤,check_in_mood,negative,high,en
+estoy como desconectado por favor! 🙏,check_in_mood,negative,high,es
+mmm... 🌿,fallback_clarify,neutral,low,es
+necesito chatear por favor!! 😥,greeting_start,neutral,medium,es
+hmm please... 🙏,fallback_clarify,neutral,low,en
+¿qué pasa en mi cerebro? porfa! 😔,self_assess,neutral,medium,es
+modo español ahora! 😤,language_switch,neutral,low,es
+english please tbh ✨,language_switch,neutral,low,en
+"me ayudó, buenas noches ahora 😤 / this helped, goodnight",thanks_goodbye,positive,low,es
+i will hurt myself tbh 🙏,crisis_emergency,negative,high,en
+i need a calm breathing routine... 😥,breathing_exercise,neutral,medium,en
+¿qué? ahora... ✨,fallback_clarify,neutral,low,es
+i want to die 🌿,crisis_emergency,negative,high,en
+una consigna para escribir ahora!! 😔,journal_prompt,neutral,low,es
+need to feel present pls 🙏,grounding_exercise,negative,medium,en
+non-emergency help options pls! 💜,info_help,neutral,low,en
+i need a calm breathing routine please... 😤,breathing_exercise,neutral,medium,en
+quiero una frase de apoyo porfa... ✨,affirmation_request,neutral,low,es
+voy a lastimarme... 🌿 / i might overdose,crisis_emergency,negative,high,es
+quiero una frase de apoyo porfa 🌿,affirmation_request,neutral,low,es
+"this helped, goodnight pls! 🙏",thanks_goodbye,positive,low,en
+estoy como desconectado ahora! 😥,check_in_mood,negative,high,es
+una consigna para escribir... 😟,journal_prompt,neutral,low,es
+i want to write about this 😟,journal_prompt,neutral,low,en
+hi rn... 🌿 / necesito chatear,greeting_start,neutral,medium,en
+that’s all for now... 😔 / vuelvo luego,thanks_goodbye,positive,low,en
+is this normal?... 😔,self_assess,neutral,medium,en
+i need to chat please! 😔 / ¿podemos hablar?,greeting_start,neutral,medium,en
+modo español ahora!! 💜,language_switch,neutral,low,es
+how do stress and emotions work? rn!! 😟,self_assess,neutral,medium,en
+i feel down today tbh!! 😤,check_in_mood,negative,high,en
+quiero escribir sobre esto por favor!,journal_prompt,neutral,low,es
+¿cómo funcionan el estrés y las emociones? por favor... 😥,self_assess,neutral,medium,es
+i feel sad today pls! ✨,check_in_mood,negative,high,en
+i’m dissociating. 😟,grounding_exercise,negative,medium,en
+estoy enojado porfa! 😥,check_in_mood,negative,high,es
+necesito arraigarme porfa 🌿,grounding_exercise,negative,medium,es
+i’m dissociating please 😤,grounding_exercise,negative,medium,en
+"me ayudó, buenas noches porfa 😔",thanks_goodbye,positive,low,es
+"this helped, goodnight tbh 😥",thanks_goodbye,positive,low,en
+🤔 porfa!! 😤,fallback_clarify,neutral,low,es
+¿podemos hablar? porfa!!,greeting_start,neutral,medium,es
+ayúdame a reflexionar porfa!!,journal_prompt,neutral,low,es
+steadying exercise please pls 🌿,grounding_exercise,negative,medium,en
+how do stress and emotions work? pls! ✨,self_assess,neutral,medium,en
+hmm pls. 🙏,fallback_clarify,neutral,low,en
+non-emergency support options. 😤,info_help,neutral,low,en
+"me ayudó, buenas noches porfa! 💜",thanks_goodbye,positive,low,es
+¿qué? pls... 😤 / idk,fallback_clarify,neutral,low,es
+podría tener una sobredosis!! 🙏 / i will hurt myself,crisis_emergency,negative,high,es
+¿con quién puedo charlar? ahora.,info_help,neutral,low,es
+why am i feeling this way? pls 💜,self_assess,neutral,medium,en
+algo que me anime porfa!! ✨,affirmation_request,neutral,low,es
+what’s happening in my brain? tbh.,self_assess,neutral,medium,en
+estoy como desconectado por favor...,check_in_mood,negative,high,es
+i’m in danger right now please!! 😤,crisis_emergency,negative,high,en
+how do stress and emotions work? pls! 💜,self_assess,neutral,medium,en
+i'll come back later rn! 💜,thanks_goodbye,positive,low,en
+"gracias, adiós porfa",thanks_goodbye,positive,low,es
+un ejercicio de respirar porfa! 😥,breathing_exercise,neutral,medium,es
+kill myself please! 😟,crisis_emergency,negative,high,en
+¿cómo funcionan el estrés y las emociones? porfa. ✨,self_assess,neutral,medium,es
+information about support! 😟,info_help,neutral,low,en
+me estoy desconectando... ✨,grounding_exercise,negative,medium,es
+english please pls... 😥,language_switch,neutral,low,en
+vuelvo luego porfa!! 🙏,thanks_goodbye,positive,low,es
+need to feel present please! 😟,grounding_exercise,negative,medium,en
+estoy como desconectado! 😥,check_in_mood,negative,high,es
+quiero sentirme presente ahora. 😔,grounding_exercise,negative,medium,es
+i’m dissociating please 💜,grounding_exercise,negative,medium,en
+un prompt de diario porfa 😥,journal_prompt,neutral,low,es
+¿con quién puedo charlar? ahora!!,info_help,neutral,low,es
+¿por qué me siento así? por favor!! 😤 / why am i feeling this way?,self_assess,neutral,medium,es
+hi please. 🌿,greeting_start,neutral,medium,en
+ayúdame a respirar pls. 🙏,breathing_exercise,neutral,medium,es
+algo que me anime... 😥,affirmation_request,neutral,low,es
+inglés por favor porfa... 😤,language_switch,neutral,low,es
+quiero escribir sobre esto... 😥 / help me reflect,journal_prompt,neutral,low,es
+i'm irritated please. 🙏,check_in_mood,negative,high,en
+i want to die please!! 😟 / estoy en peligro ahora,crisis_emergency,negative,high,en
+i'm panicky please... 🌿,check_in_mood,negative,high,en
+i’m in danger right now pls. 🌿,crisis_emergency,negative,high,en
+quiero escribir sobre esto porfa! 💜,journal_prompt,neutral,low,es
+¿podemos charlar? porfa 🌿,greeting_start,neutral,medium,es
+me quiero morir ahora!,crisis_emergency,negative,high,es
+i’m dissociating! 😥,grounding_exercise,negative,medium,en
+i want to write about this please...,journal_prompt,neutral,low,en
+spanish mode tbh!! 🙏 / cambiemos a inglés,language_switch,neutral,low,en
+quiero sentirme presente. 😤,grounding_exercise,negative,medium,es
+what’s happening in my brain? tbh. 😥,self_assess,neutral,medium,en
+assist me anchor pls!! ✨,grounding_exercise,negative,medium,en
+"this assisted, goodnight tbh. 🙏 / eso es todo por ahora",thanks_goodbye,positive,low,en
+una consigna para escribir ahora! 😔,journal_prompt,neutral,low,es
+"gracias, adiós por favor.",thanks_goodbye,positive,low,es
+i feel numb! 😤 / me siento triste,check_in_mood,negative,high,en
+i need a calm breathing routine please 😔,breathing_exercise,neutral,medium,en
+"thanks, bye tbh!! 💜",thanks_goodbye,positive,low,en
+i’m in danger right now rn... 🌿,crisis_emergency,negative,high,en
+hola porfa!! 🌿,greeting_start,neutral,medium,es
+necesito calmarme con respirar porfa.,breathing_exercise,neutral,medium,es
+¿qué pasa en mi cerebro? por favor... 😤,self_assess,neutral,medium,es
+un ejercicio de respiración porfa! 😟,breathing_exercise,neutral,medium,es
+me estoy desconectando por favor 🌿,grounding_exercise,negative,medium,es
+¿por qué me siento así?. 😥,self_assess,neutral,medium,es
+🤔 pls!! 🙏,fallback_clarify,neutral,low,es
+i might overdose tbh!! 😔,crisis_emergency,negative,high,en
+how do stress and emotions work?! 😤,self_assess,neutral,medium,en
+un prompt de diario!! 🌿 / journal prompt please,journal_prompt,neutral,low,es
+journal prompt please!! 💜,journal_prompt,neutral,low,en
+cambiemos a inglés porfa 😥 / spanish please,language_switch,neutral,low,es
+matarme por favor!! 😟,crisis_emergency,negative,high,es
+estoy molesto porfa!! 😥,check_in_mood,negative,high,es
+un ejercicio de arraigo por favor ✨ / need to feel present,grounding_exercise,negative,medium,es
+"me ayudó, buenas noches ahora 🙏",thanks_goodbye,positive,low,es
+modo español ahora... 😔,language_switch,neutral,low,es
+hmm pls ✨ / no sé,fallback_clarify,neutral,low,en
+¿qué pasa en mi cerebro? porfa! 😔 / is this normal?,self_assess,neutral,medium,es
+information about support please!! 💜 / ¿con quién puedo hablar?,info_help,neutral,low,en
+opciones de apoyo no urgente ahora 😥,info_help,neutral,low,es
+un ejercicio de respirar pls! 😤,breathing_exercise,neutral,medium,es
+¿cómo funcionan el estrés y las emociones? pls 😥,self_assess,neutral,medium,es
+i'm panicky pls 😟,check_in_mood,negative,high,en
+idk rn,fallback_clarify,neutral,low,en
+voy a lastimarme! 😥 / i will hurt myself,crisis_emergency,negative,high,es
+¿por qué me siento así? pls!! 🌿,self_assess,neutral,medium,es
+un prompt de diario porfa 😤,journal_prompt,neutral,low,es
+who can i chat to nearby? please.,info_help,neutral,low,en
+un ejercicio de arraigo pls,grounding_exercise,negative,medium,es
+quiero sentirme presente porfa! 🌿,grounding_exercise,negative,medium,es
+¿qué opciones de ayuda hay? pls! 😥,info_help,neutral,low,es
+modo español porfa. ✨,language_switch,neutral,low,es
+mmm... ahora... 😔,fallback_clarify,neutral,low,es
+ayúdame a respirar por favor! 🌿 / can you help me breathe?,breathing_exercise,neutral,medium,es
+necesito chatear pls! 😥 / hi,greeting_start,neutral,medium,es
+un ejercicio de anclaje ahora!! 😟,grounding_exercise,negative,medium,es
+un ejercicio de respiración porfa... 😔,breathing_exercise,neutral,medium,es
+information about support rn! 🌿,info_help,neutral,low,en
+mmm... ahora! 😤,fallback_clarify,neutral,low,es
+hola ahora!! 😤,greeting_start,neutral,medium,es
+algo que me anime pls!! 🌿 / i need something positive,affirmation_request,neutral,low,es
+i'm panicky... ✨,check_in_mood,negative,high,en
+¿qué opciones de ayuda hay?!! 😟,info_help,neutral,low,es
+journal prompt please please... 🌿 / ayúdame a reflexionar,journal_prompt,neutral,low,en
+¿con quién puedo hablar? pls. 😤,info_help,neutral,low,es
+necesito arraigarme ahora... 🌿,grounding_exercise,negative,medium,es
+information about support rn! 💜,info_help,neutral,low,en
+podría tener una sobredosis porfa!! 🌿,crisis_emergency,negative,high,es
+¿qué opciones de ayuda hay?! 😤,info_help,neutral,low,es
+necesito arraigarme ahora... 😥,grounding_exercise,negative,medium,es
+🤔 por favor!!,fallback_clarify,neutral,low,es
+vuelvo luego por favor 🙏,thanks_goodbye,positive,low,es
+información de apoyo por favor... ✨,info_help,neutral,low,es
+mmm... por favor. 😟,fallback_clarify,neutral,low,es
+spanish please rn! 🌿,language_switch,neutral,low,en
+i'm panicky!! 😟,check_in_mood,negative,high,en
+podría tener una sobredosis pls!! ✨,crisis_emergency,negative,high,es
+eso es todo por ahora!!,thanks_goodbye,positive,low,es
+what support options can support? rn... 😤 / información de apoyo,info_help,neutral,low,en
+can we switch to english? pls! 💜,language_switch,neutral,low,en
+me quiero morir porfa... ✨,crisis_emergency,negative,high,es
+me estoy desconectando por favor. 🌿,grounding_exercise,negative,medium,es
+¿con quién puedo charlar? ahora ✨,info_help,neutral,low,es
+dame una afirmación por favor!! 🙏,affirmation_request,neutral,low,es
+what please... 😟 / 🤔,fallback_clarify,neutral,low,en
+spanish please rn!,language_switch,neutral,low,en
+¿qué pasa en mi cerebro? por favor!! 😥,self_assess,neutral,medium,es
+estoy en peligro ahora 🌿,crisis_emergency,negative,high,es
+give me a writing prompt rn!! 💜,journal_prompt,neutral,low,en
+¿esto es normal? por favor! 💜 / why am i feeling this way?,self_assess,neutral,medium,es
+un prompt de diario 🌿,journal_prompt,neutral,low,es
+spanish mode! 😔,language_switch,neutral,low,en
+hi please. 🙏,greeting_start,neutral,medium,en
+is anyone there? tbh. ✨,greeting_start,neutral,medium,en
+me estoy desconectando pls! 😟,grounding_exercise,negative,medium,es
+is this normal? rn... 😟,self_assess,neutral,medium,en
+i need something positive pls... 😟,affirmation_request,neutral,low,en
+give me an encouraging words! 😔,affirmation_request,neutral,low,en
+inglés por favor!! ✨,language_switch,neutral,low,es
+i want to die pls. ✨,crisis_emergency,negative,high,en
+necesito algo positivo porfa... 😥,affirmation_request,neutral,low,es
+can we switch to english? tbh 🙏,language_switch,neutral,low,en
+i need something positive please... 💜,affirmation_request,neutral,low,en
+i feel numb pls. 🙏,check_in_mood,negative,high,en
+i might overdose rn... ✨,crisis_emergency,negative,high,en
+i'm panicky tbh. ✨ / me siento ansioso,check_in_mood,negative,high,en
+need to feel present rn... 💜,grounding_exercise,negative,medium,en
+i will hurt myself pls. 😟,crisis_emergency,negative,high,en
+how do stress and emotions work? rn... 😥,self_assess,neutral,medium,en
+journal prompt please tbh! 😥,journal_prompt,neutral,low,en
+"gracias, adiós ahora 🙏",thanks_goodbye,positive,low,es
+un ejercicio de respirar ahora! 😤,breathing_exercise,neutral,medium,es
+i feel nervous pls. 😥,check_in_mood,negative,high,en
+¿qué? ahora 🌿,fallback_clarify,neutral,low,es
+i feel sad today please! 😤,check_in_mood,negative,high,en
+i might overdose tbh. 😥,crisis_emergency,negative,high,en
+"thanks, bye tbh. ✨",thanks_goodbye,positive,low,en
+no sé ahora. 😥,fallback_clarify,neutral,low,es
+me estoy desconectando ahora 😤,grounding_exercise,negative,medium,es
+hablemos en español por favor!! 💜,language_switch,neutral,low,es
+give me a writing prompt please 😤,journal_prompt,neutral,low,en
+what 😥,fallback_clarify,neutral,low,en
+can you help me breathe? rn! 🌿,breathing_exercise,neutral,medium,en
+journal prompt please pls... 😔,journal_prompt,neutral,low,en
+quiero escribir sobre esto! 🌿,journal_prompt,neutral,low,es
+estoy en peligro ahora porfa. 🙏,crisis_emergency,negative,high,es
+is anyone there? please... 🌿,greeting_start,neutral,medium,en
+i need a calm breathing routine rn!! 😔,breathing_exercise,neutral,medium,en
+i need a calm breathing routine please!! 😟,breathing_exercise,neutral,medium,en
+quiero sentirme presente ahora,grounding_exercise,negative,medium,es
+say something encouraging rn!! 😟,affirmation_request,neutral,low,en
+is anyone there?...,greeting_start,neutral,medium,en
+idk please 😤,fallback_clarify,neutral,low,en
+podría tener una sobredosis por favor... 😤,crisis_emergency,negative,high,es
+quiero sentirme presente pls! ✨,grounding_exercise,negative,medium,es
+¿esto es normal? ahora... ✨,self_assess,neutral,medium,es
+necesito algo positivo 🌿,affirmation_request,neutral,low,es
+what support options can assist? pls 💜,info_help,neutral,low,en
+🤔 pls. 😟,fallback_clarify,neutral,low,es
+¿hay alguien?... 😟 / hello,greeting_start,neutral,medium,es
+what’s happening in my brain? please! ✨,self_assess,neutral,medium,en
+¿qué? ahora 🙏,fallback_clarify,neutral,low,es
+quiero sentirme presente por favor 🙏,grounding_exercise,negative,medium,es
+"thanks, bye tbh... 😟",thanks_goodbye,positive,low,en
+i’m dissociating tbh. 💜,grounding_exercise,negative,medium,en
+cambiemos a inglés pls!! 😥,language_switch,neutral,low,es
+hello!! 🙏,greeting_start,neutral,medium,en
+i feel numb tbh 💜,check_in_mood,negative,high,en
+¿qué opciones de ayuda hay? ahora... 😔,info_help,neutral,low,es
+podría tener una sobredosis pls! 💜 / i want to die,crisis_emergency,negative,high,es
+i will hurt myself pls 😥,crisis_emergency,negative,high,en
+is this normal? 😤 / ¿esto es normal?,self_assess,neutral,medium,en
+i'm panicky... 🌿,check_in_mood,negative,high,en
+give me a writing prompt pls. 😔,journal_prompt,neutral,low,en
+give me an encouraging words tbh! 🙏,affirmation_request,neutral,low,en
+un ejercicio de respirar porfa! ✨,breathing_exercise,neutral,medium,es
+is anyone there? pls! 🙏,greeting_start,neutral,medium,en
+journal prompt please,journal_prompt,neutral,low,en
+un ejercicio de respiración por favor. 💜,breathing_exercise,neutral,medium,es
+"this helped, goodnight rn! 😤",thanks_goodbye,positive,low,en
+"eso es todo por ahora ahora. 💜 / this helped, goodnight",thanks_goodbye,positive,low,es
+i'm panicky tbh 😔,check_in_mood,negative,high,en
+opciones de apoyo no urgente por favor 😥,info_help,neutral,low,es
+"thanks, bye please... / gracias, adiós",thanks_goodbye,positive,low,en
+kill myself tbh!! 😔,crisis_emergency,negative,high,en
+hi tbh! 🙏,greeting_start,neutral,medium,en
+hablemos en español porfa. 🙏 / spanish mode,language_switch,neutral,low,es
+is this normal? rn! 😔,self_assess,neutral,medium,en
+i feel blue today rn! 😤,check_in_mood,negative,high,en
+información de apoyo pls 😥,info_help,neutral,low,es
+english please. ✨ / modo español,language_switch,neutral,low,en
+"gracias, adiós por favor. ✨",thanks_goodbye,positive,low,es
+is anyone there? pls!! 😥,greeting_start,neutral,medium,en
+quiero sentirme presente pls. 🌿,grounding_exercise,negative,medium,es
+ayúdame a respirar pls!! ✨,breathing_exercise,neutral,medium,es
+necesito calmarme con respirar porfa... ✨,breathing_exercise,neutral,medium,es
+¿qué pasa en mi cerebro? ahora!! 🙏,self_assess,neutral,medium,es
+is anyone there? please. 🙏,greeting_start,neutral,medium,en
+is this normal?. ✨,self_assess,neutral,medium,en
+help me reflect please... 😟,journal_prompt,neutral,low,en
+breathing exercise please tbh... 😤,breathing_exercise,neutral,medium,en
+¿hay alguien? porfa! 😥,greeting_start,neutral,medium,es
+i feel sad today!! 🙏,check_in_mood,negative,high,en
+idk pls 🌿 / mmm...,fallback_clarify,neutral,low,en
+necesito arraigarme ✨ / i’m dissociating,grounding_exercise,negative,medium,es
+idk rn. ✨,fallback_clarify,neutral,low,en
+¿por qué me siento así? por favor... ✨,self_assess,neutral,medium,es
+what’s happening in my brain? rn!,self_assess,neutral,medium,en
+is this normal? tbh 💜 / ¿esto es normal?,self_assess,neutral,medium,en
+information about support! 😥,info_help,neutral,low,en
+i feel anxious please. 💜,check_in_mood,negative,high,en
+necesito algo positivo!! 😥,affirmation_request,neutral,low,es
+grounding exercise please please 😟,grounding_exercise,negative,medium,en
+inglés por favor.,language_switch,neutral,low,es
+necesito calmarme con respirar por favor... ✨,breathing_exercise,neutral,medium,es
+say something encouraging tbh! 😥,affirmation_request,neutral,low,en
+hi pls! 🙏,greeting_start,neutral,medium,en
+i'm irritated pls... 😟,check_in_mood,negative,high,en
+hey can we chat? tbh! 🌿,greeting_start,neutral,medium,en
+give me an encouraging words!! 😥,affirmation_request,neutral,low,en
+can you help me breathe? pls!!,breathing_exercise,neutral,medium,en
+information about support pls... 🙏,info_help,neutral,low,en
+assist me steady please.,grounding_exercise,negative,medium,en
+is anyone there?... 💜,greeting_start,neutral,medium,en
+necesito arraigarme ahora. 🌿,grounding_exercise,negative,medium,es
+¿qué?!,fallback_clarify,neutral,low,es
+me estoy desconectando pls... 😟,grounding_exercise,negative,medium,es
+who can i talk to nearby?... 😟,info_help,neutral,low,en
+"gracias, adiós. 😔",thanks_goodbye,positive,low,es
+me siento triste! 😟,check_in_mood,negative,high,es
+¿qué pasa en mi cerebro? porfa 🙏,self_assess,neutral,medium,es
+¿podemos charlar? ahora! 💜,greeting_start,neutral,medium,es
+¿qué recursos hay? porfa!! 🌿,info_help,neutral,low,es
+need to feel present tbh. 😥,grounding_exercise,negative,medium,en
+i feel nervous tbh 🙏,check_in_mood,negative,high,en
+i feel sad today pls 😥,check_in_mood,negative,high,en
+mmm... por favor!! 😔,fallback_clarify,neutral,low,es
+i'll come back later please. 😤,thanks_goodbye,positive,low,en
+anchoring exercise please please. 😤,grounding_exercise,negative,medium,en
+hello. 🙏,greeting_start,neutral,medium,en
+i’m dissociating tbh 😥,grounding_exercise,negative,medium,en
+no sé pls...,fallback_clarify,neutral,low,es
+i feel down today!! ✨,check_in_mood,negative,high,en
+no sé ahora. 🙏,fallback_clarify,neutral,low,es
+un prompt de diario porfa!! 😔,journal_prompt,neutral,low,es
+that’s all for now rn ✨,thanks_goodbye,positive,low,en
+quiero sentirme presente por favor 😥,grounding_exercise,negative,medium,es
+hi please... 💜 / necesito chatear,greeting_start,neutral,medium,en
+what’s happening in my brain?. 😤,self_assess,neutral,medium,en
+ayúdame a respirar pls... 😟,breathing_exercise,neutral,medium,es
+is anyone there? rn!! ✨,greeting_start,neutral,medium,en
+un ejercicio de respirar porfa... 😥,breathing_exercise,neutral,medium,es
+??? tbh. ✨,fallback_clarify,neutral,low,en
+¿por qué me siento así? por favor 😟,self_assess,neutral,medium,es
+¿por qué me siento así?. 💜 / how do stress and emotions work?,self_assess,neutral,medium,es
+mmm... 😥,fallback_clarify,neutral,low,es
+voy a lastimarme! 😟,crisis_emergency,negative,high,es
+necesito chatear pls... 😟,greeting_start,neutral,medium,es
+support me reflect rn! 😥,journal_prompt,neutral,low,en
+can we switch to english? please. 💜 / hablemos en español,language_switch,neutral,low,en
+podría tener una sobredosis ahora... 😔,crisis_emergency,negative,high,es
+¿hay alguien? ahora... 💜,greeting_start,neutral,medium,es
+me estoy desconectando ahora 🌿,grounding_exercise,negative,medium,es
+¿por qué me siento así? porfa. 🌿,self_assess,neutral,medium,es
+hablemos en español ahora. 😟,language_switch,neutral,low,es
+necesito calmarme con respiración pls!! ✨,breathing_exercise,neutral,medium,es
+inglés por favor ahora... 😟,language_switch,neutral,low,es
+¿qué recursos hay? pls. ✨,info_help,neutral,low,es
+¿hay alguien? por favor 🙏,greeting_start,neutral,medium,es
+support me ground pls! 🙏,grounding_exercise,negative,medium,en
+vuelvo luego pls. 🙏,thanks_goodbye,positive,low,es
+me estoy desconectando porfa 🙏,grounding_exercise,negative,medium,es
+i feel sad today tbh!! 🙏,check_in_mood,negative,high,en
+no sé... 🌿,fallback_clarify,neutral,low,es
+una consigna para escribir!,journal_prompt,neutral,low,es
+necesito arraigarme porfa 😔,grounding_exercise,negative,medium,es
+¿cómo funcionan el estrés y las emociones? por favor! 😥 / why am i feeling this way?,self_assess,neutral,medium,es
+estoy molesto por favor... 😥,check_in_mood,negative,high,es
+me siento ansioso!! ✨ / i feel anxious,check_in_mood,negative,high,es
+vuelvo luego ahora. 🌿,thanks_goodbye,positive,low,es
+why am i feeling this way? please ✨ / ¿qué pasa en mi cerebro?,self_assess,neutral,medium,en
+journal prompt please tbh! ✨,journal_prompt,neutral,low,en
+i feel down today please 💜,check_in_mood,negative,high,en
+i'll come back later pls. 🙏,thanks_goodbye,positive,low,en
+need reassurance pls! 💜,affirmation_request,neutral,low,en
+spanish mode tbh!! 💜,language_switch,neutral,low,en
+spanish please rn 😤,language_switch,neutral,low,en
+i need a calm breathing routine please!! 🙏,breathing_exercise,neutral,medium,en
+what support options can support? rn!! 😥,info_help,neutral,low,en
+podría tener una sobredosis! 😟,crisis_emergency,negative,high,es
+"thanks, bye please!! ✨",thanks_goodbye,positive,low,en
+english please rn... 😟 / inglés por favor,language_switch,neutral,low,en
+give me a writing prompt tbh... 😥,journal_prompt,neutral,low,en
+quiero una frase de apoyo por favor... 😥,affirmation_request,neutral,low,es
+why am i feeling this way? rn!! ✨,self_assess,neutral,medium,en
+give me an encouraging words rn! 🙏 / quiero una frase de apoyo,affirmation_request,neutral,low,en
+¿podemos hablar? porfa 🙏,greeting_start,neutral,medium,es
+hi pls.,greeting_start,neutral,medium,en
+can we switch to english? tbh. ✨ / hablemos en español,language_switch,neutral,low,en
+¿por qué me siento así? pls 😥,self_assess,neutral,medium,es
+¿qué? ahora!! 🙏,fallback_clarify,neutral,low,es
+what help options can help? please!! 🌿,info_help,neutral,low,en
+eso es todo por ahora... 😥,thanks_goodbye,positive,low,es
+steadying exercise please 😟,grounding_exercise,negative,medium,en
+i want to write about this please!! ✨,journal_prompt,neutral,low,en
+¿esto es normal? porfa. 😥,self_assess,neutral,medium,es
+??? tbh! 🙏,fallback_clarify,neutral,low,en
+algo que me anime pls! 😥,affirmation_request,neutral,low,es
+quiero una frase de apoyo ✨,affirmation_request,neutral,low,es
+is this normal? pls! 🙏,self_assess,neutral,medium,en
+¿qué? ahora!! 😤,fallback_clarify,neutral,low,es
+hola... 😥,greeting_start,neutral,medium,es
+"gracias, adiós por favor! ✨",thanks_goodbye,positive,low,es
+say something encouraging tbh!! 😔,affirmation_request,neutral,low,en
+voy a lastimarme por favor... 😟,crisis_emergency,negative,high,es
+¿qué? ahora!,fallback_clarify,neutral,low,es
+hello tbh!,greeting_start,neutral,medium,en
+i want to write about this pls.,journal_prompt,neutral,low,en
+i need to chat rn. ✨,greeting_start,neutral,medium,en
+i’m in danger right now tbh! 🙏,crisis_emergency,negative,high,en
+i might overdose rn! 😤,crisis_emergency,negative,high,en
+no sé... ✨,fallback_clarify,neutral,low,es
+algo que me anime...,affirmation_request,neutral,low,es
+journal prompt please rn... 🌿,journal_prompt,neutral,low,en
+need reassurance. 🙏 / necesito algo positivo,affirmation_request,neutral,low,en
+ayúdame a respirar pls! 😤,breathing_exercise,neutral,medium,es
+spanish mode pls. 💜 / modo español,language_switch,neutral,low,en
+give me an positive line please! 💜,affirmation_request,neutral,low,en
+dame una frase positiva por favor... ✨,affirmation_request,neutral,low,es
+what resources can assist? rn. 💜,info_help,neutral,low,en
+¿qué opciones de ayuda hay? pls! 🙏,info_help,neutral,low,es
+me siento nervioso porfa. 💜,check_in_mood,negative,high,es
+need to feel present tbh. 😔,grounding_exercise,negative,medium,en
+information about support. 💜,info_help,neutral,low,en
+cambiemos a inglés ahora... 💜 / can we switch to english?,language_switch,neutral,low,es
+eso es todo por ahora porfa...,thanks_goodbye,positive,low,es
+i'm irritated pls! 🙏,check_in_mood,negative,high,en
+hi. 💜,greeting_start,neutral,medium,en
+??? tbh 😤,fallback_clarify,neutral,low,en
+dame una afirmación pls. 😟,affirmation_request,neutral,low,es
+dame una frase positiva porfa... 🌿,affirmation_request,neutral,low,es
+¿qué? porfa... 😤 / ???,fallback_clarify,neutral,low,es
+assist me reflect! 😟,journal_prompt,neutral,low,en
+i'll come back later rn 😟 / eso es todo por ahora,thanks_goodbye,positive,low,en
+estoy como desconectado ahora! 🙏,check_in_mood,negative,high,es
+i want to die rn. 😔,crisis_emergency,negative,high,en
+i need something positive!!,affirmation_request,neutral,low,en
+voy a lastimarme ahora... ✨,crisis_emergency,negative,high,es
+quiero una frase de apoyo ahora!! 😤,affirmation_request,neutral,low,es
+help me anchor pls 😟,grounding_exercise,negative,medium,en
+¿qué pasa en mi cerebro?.,self_assess,neutral,medium,es
+"thanks, bye please 😟",thanks_goodbye,positive,low,en
+"gracias, adiós pls!",thanks_goodbye,positive,low,es
+necesito calmarme con respirar. 🙏,breathing_exercise,neutral,medium,es
+what’s happening in my brain? tbh... ✨,self_assess,neutral,medium,en
+i need a calm breathing routine tbh... 😟,breathing_exercise,neutral,medium,en
+steadying exercise please pls. 😥,grounding_exercise,negative,medium,en
+me estoy desconectando! 💜,grounding_exercise,negative,medium,es
+english please rn! 😥 / modo español,language_switch,neutral,low,en
+algo que me anime por favor... 💜,affirmation_request,neutral,low,es
+un ejercicio de respirar 😤 / i need a calm breathing routine,breathing_exercise,neutral,medium,es
+breathing exercise please tbh! 😤 / un ejercicio de respiración,breathing_exercise,neutral,medium,en
+i feel sad today.,check_in_mood,negative,high,en
+breathing exercise please please!! 🌿 / ayúdame a respirar,breathing_exercise,neutral,medium,en
+un ejercicio de respiración 💜,breathing_exercise,neutral,medium,es
+kill myself rn... 😔 / podría tener una sobredosis,crisis_emergency,negative,high,en
+voy a lastimarme porfa!! 😔,crisis_emergency,negative,high,es
+who can i chat to nearby? please... 😥,info_help,neutral,low,en
+breathing exercise please rn. 🙏,breathing_exercise,neutral,medium,en
+quiero sentirme presente por favor. 🙏,grounding_exercise,negative,medium,es
+need to feel present please... 😟,grounding_exercise,negative,medium,en
+can you help me breathing? please... 💜 / necesito calmarme con respiración,breathing_exercise,neutral,medium,en
+¿con quién puedo hablar? porfa!! 😔,info_help,neutral,low,es
+¿qué pasa en mi cerebro? pls. 💜,self_assess,neutral,medium,es
+modo español ahora!! 😥,language_switch,neutral,low,es
+🤔 😤,fallback_clarify,neutral,low,es
+necesito algo positivo pls! 😥 / need reassurance,affirmation_request,neutral,low,es
+mmm...! 🙏,fallback_clarify,neutral,low,es
+hello please! 😥,greeting_start,neutral,medium,en
+una consigna para escribir por favor 😔,journal_prompt,neutral,low,es
+i will hurt myself please.,crisis_emergency,negative,high,en
+¿hay alguien? ahora. 😤,greeting_start,neutral,medium,es
+cambiemos a inglés porfa... 😤,language_switch,neutral,low,es
+inglés por favor pls! ✨,language_switch,neutral,low,es
+necesito calmarme con respirar por favor. 😤,breathing_exercise,neutral,medium,es
+i want to die rn. 🌿,crisis_emergency,negative,high,en
+i'm irritated tbh!! 😥,check_in_mood,negative,high,en
+estoy irritado por favor 🌿,check_in_mood,negative,high,es
+¿podemos hablar? ahora... 🌿,greeting_start,neutral,medium,es
+give me an affirmation please!! ✨,affirmation_request,neutral,low,en
+say something encouraging pls 😥,affirmation_request,neutral,low,en
+english please pls 💜,language_switch,neutral,low,en
+give me a writing prompt! 😥,journal_prompt,neutral,low,en
+¿hay alguien? por favor! 🙏,greeting_start,neutral,medium,es
+that’s all for now tbh!! 😤,thanks_goodbye,positive,low,en
+give me a writing prompt tbh 😥 / una consigna para escribir,journal_prompt,neutral,low,en
+¿hay alguien? ahora 😥,greeting_start,neutral,medium,es
+hablemos en español ahora! 💜 / can we switch to english?,language_switch,neutral,low,es
+necesito algo positivo porfa! 💜,affirmation_request,neutral,low,es
+¿cómo funcionan el estrés y las emociones?! 😥,self_assess,neutral,medium,es
+necesito chatear... 🌿,greeting_start,neutral,medium,es
+quiero escribir sobre esto. ✨,journal_prompt,neutral,low,es
+¿podemos charlar? ahora! 🙏,greeting_start,neutral,medium,es
+journal prompt please pls. 🌿,journal_prompt,neutral,low,en
+vuelvo luego pls!! 😟,thanks_goodbye,positive,low,es
+i need something positive please... 🌿,affirmation_request,neutral,low,en
+who can i talk to nearby? rn!! 🌿,info_help,neutral,low,en
+i need something positive pls!! 😟,affirmation_request,neutral,low,en
+is this normal? please!! 😟 / ¿qué pasa en mi cerebro?,self_assess,neutral,medium,en
+eso es todo por ahora!! ✨,thanks_goodbye,positive,low,es
+i'm panicky tbh 😥 / estoy como desconectado,check_in_mood,negative,high,en
+information about support... ✨,info_help,neutral,low,en
+i need to chat pls 🌿,greeting_start,neutral,medium,en
+🤔 please!! 😔,fallback_clarify,neutral,low,en
+spanish mode... ✨ / hablemos en español,language_switch,neutral,low,en
+spanish please pls. 😤,language_switch,neutral,low,en
+¿cómo funcionan el estrés y las emociones? por favor! 😔,self_assess,neutral,medium,es
+i want to die 😔,crisis_emergency,negative,high,en
+that’s all for now pls! 😔,thanks_goodbye,positive,low,en
+help me reflect tbh... 😟,journal_prompt,neutral,low,en
+anchoring exercise please. 💜,grounding_exercise,negative,medium,en
+i'm irritated tbh!! 😤,check_in_mood,negative,high,en
+i want to write about this tbh!! 😥,journal_prompt,neutral,low,en
+dame una frase positiva... 😔,affirmation_request,neutral,low,es
+un ejercicio de respirar por favor...,breathing_exercise,neutral,medium,es
+i want to write about this pls!!,journal_prompt,neutral,low,en
+hola 😤,greeting_start,neutral,medium,es
+english please tbh... 🙏,language_switch,neutral,low,en
+quiero sentirme presente ahora 😤,grounding_exercise,negative,medium,es
+me siento decaído por favor!! ✨,check_in_mood,negative,high,es
+ayúdame a reflexionar por favor 😥,journal_prompt,neutral,low,es
+i need something positive pls. 😥,affirmation_request,neutral,low,en
+mmm... pls!! ✨,fallback_clarify,neutral,low,es
+quiero una frase de apoyo pls! 💜 / give me an affirmation,affirmation_request,neutral,low,es
+necesito arraigarme!! ✨,grounding_exercise,negative,medium,es
+un ejercicio de respiración por favor 😤,breathing_exercise,neutral,medium,es
+no sé pls!! 💜,fallback_clarify,neutral,low,es
+quiero sentirme presente! 😟 / need to feel present,grounding_exercise,negative,medium,es
+me estoy desconectando pls! 😟 / help me ground,grounding_exercise,negative,medium,es
+una consigna para escribir porfa!! ✨ / help me reflect,journal_prompt,neutral,low,es
+mmm... 😟,fallback_clarify,neutral,low,es
+voy a lastimarme por favor... 💜,crisis_emergency,negative,high,es
+necesito chatear porfa!! 💜,greeting_start,neutral,medium,es
+support me steady pls!! 😥,grounding_exercise,negative,medium,en
+i want to die pls!! 😔,crisis_emergency,negative,high,en
+"me ayudó, buenas noches por favor. 🙏 / that’s all for now",thanks_goodbye,positive,low,es
+¿hay alguien? pls. 💜,greeting_start,neutral,medium,es
+me estoy desconectando ahora. 😟,grounding_exercise,negative,medium,es
+i'm panicky rn 💜,check_in_mood,negative,high,en
+kill myself tbh!! 🙏 / me quiero morir,crisis_emergency,negative,high,en
+i feel anxious tbh... 🙏,check_in_mood,negative,high,en
+idk pls!! 😔,fallback_clarify,neutral,low,en
+i’m dissociating tbh... ✨,grounding_exercise,negative,medium,en
+matarme ahora. 🙏,crisis_emergency,negative,high,es
+una consigna para escribir! ✨ / help me reflect,journal_prompt,neutral,low,es
+🤔 pls! 😤,fallback_clarify,neutral,low,en
+non-emergency help options please!! 😔,info_help,neutral,low,en
+¿esto es normal? ahora... 😥,self_assess,neutral,medium,es
+estoy molesto ✨,check_in_mood,negative,high,es
+i need a calm breathing routine please... / un ejercicio de respiración,breathing_exercise,neutral,medium,en
+spanish mode tbh!! 🙏,language_switch,neutral,low,en
+un ejercicio de anclaje por favor!! 💜,grounding_exercise,negative,medium,es
+¿cómo funcionan el estrés y las emociones? porfa. 😥 / is this normal?,self_assess,neutral,medium,es
+¿qué? 🙏 / idk,fallback_clarify,neutral,low,es
+"thanks, bye pls ✨ / me ayudó, buenas noches",thanks_goodbye,positive,low,en
+spanish mode rn. 😔,language_switch,neutral,low,en
+dame una frase positiva ahora... 💜,affirmation_request,neutral,low,es
+i'll come back later please. ✨,thanks_goodbye,positive,low,en
+help me anchor. 💜,grounding_exercise,negative,medium,en
+say something encouraging! 🙏,affirmation_request,neutral,low,en
+need reassurance!! 🙏 / necesito algo positivo,affirmation_request,neutral,low,en
+mmm... pls! 😥,fallback_clarify,neutral,low,es
+¿hay alguien? porfa!! 💜,greeting_start,neutral,medium,es
+i feel blue today!! ✨,check_in_mood,negative,high,en
+¿qué opciones de ayuda hay? porfa! 😔 / who can i talk to nearby?,info_help,neutral,low,es
+modo español por favor!! 😥,language_switch,neutral,low,es
+steadying exercise please pls 😥,grounding_exercise,negative,medium,en
+¿qué opciones de apoyo hay? pls... 😔,info_help,neutral,low,es
+inglés por favor por favor!! 🌿,language_switch,neutral,low,es
+ayúdame a respirar porfa! 😤,breathing_exercise,neutral,medium,es
+can we switch to english? please!! 💜,language_switch,neutral,low,en
+¿esto es normal? por favor... 🌿,self_assess,neutral,medium,es
+matarme. 🙏,crisis_emergency,negative,high,es
+información de apoyo ahora! 🙏,info_help,neutral,low,es
+help me steady!! 😤,grounding_exercise,negative,medium,en
+una consigna para escribir porfa,journal_prompt,neutral,low,es
+i want to write about this... 😟,journal_prompt,neutral,low,en
+hey can we talk? tbh 💜,greeting_start,neutral,medium,en
+¿por qué me siento así? 😥,self_assess,neutral,medium,es
+eso es todo por ahora ahora!! 🌿,thanks_goodbye,positive,low,es
+give me an affirmation rn... ✨,affirmation_request,neutral,low,en
+what please 😤,fallback_clarify,neutral,low,en
+¿con quién puedo hablar? pls! 😥,info_help,neutral,low,es
+can you assist me breathe?.,breathing_exercise,neutral,medium,en
+i need something positive pls. 🌿,affirmation_request,neutral,low,en
+is this normal? please 😤,self_assess,neutral,medium,en
+dame una frase positiva pls ✨,affirmation_request,neutral,low,es
+me siento triste pls!,check_in_mood,negative,high,es
+¿qué?!! 😤,fallback_clarify,neutral,low,es
+journal prompt please please! 😔 / una consigna para escribir,journal_prompt,neutral,low,en
+cambiemos a inglés ahora! 🌿,language_switch,neutral,low,es
+"eso es todo por ahora pls. 🌿 / this helped, goodnight",thanks_goodbye,positive,low,es
+give me a writing prompt rn... 🙏,journal_prompt,neutral,low,en
+i’m dissociating pls,grounding_exercise,negative,medium,en
+un prompt de diario porfa!! 😤,journal_prompt,neutral,low,es
+hablemos en español... ✨,language_switch,neutral,low,es
+i'm mad rn. 🌿,check_in_mood,negative,high,en
+journal prompt please please!! 🙏,journal_prompt,neutral,low,en
+hey can we chat? tbh...,greeting_start,neutral,medium,en
+kill myself tbh 🙏,crisis_emergency,negative,high,en
+how do stress and emotions work? tbh 😥,self_assess,neutral,medium,en
+hmm rn! 🌿,fallback_clarify,neutral,low,en
+me siento ansioso ahora 💜,check_in_mood,negative,high,es
+support me anchor pls!! ✨ / quiero sentirme presente,grounding_exercise,negative,medium,en
+non-emergency help options pls. ✨,info_help,neutral,low,en
+hello rn! 😔,greeting_start,neutral,medium,en
+can you assist me breathe? tbh... 😔,breathing_exercise,neutral,medium,en
+can you assist me breathe? rn! 😔,breathing_exercise,neutral,medium,en
+is this normal? pls!! 😥,self_assess,neutral,medium,en
+need to feel present pls 😤,grounding_exercise,negative,medium,en
+¿con quién puedo hablar? ahora 😥,info_help,neutral,low,es
+i need a calm breathing routine rn. 😔,breathing_exercise,neutral,medium,en
+🤔 pls. 😤,fallback_clarify,neutral,low,en
+what’s happening in my brain? pls!! 😤,self_assess,neutral,medium,en
+¿por qué me siento así? ahora! 🌿 / what’s happening in my brain?,self_assess,neutral,medium,es
+ayúdame a respirar ahora!! 😟,breathing_exercise,neutral,medium,es
+modo español. 😔,language_switch,neutral,low,es
+cambiemos a inglés. 🙏 / english please,language_switch,neutral,low,es
+i need to chat tbh!! 😤 / necesito chatear,greeting_start,neutral,medium,en
+quiero una frase de apoyo por favor!! 💜,affirmation_request,neutral,low,es
+inglés por favor porfa! 😔 / spanish please,language_switch,neutral,low,es
+"thanks, bye... 😔",thanks_goodbye,positive,low,en
+¿esto es normal? pls... ✨,self_assess,neutral,medium,es
+¿qué opciones de ayuda hay? por favor. 💜,info_help,neutral,low,es
+i want to die...,crisis_emergency,negative,high,en
+hmm rn!! 😔,fallback_clarify,neutral,low,en
+ayúdame a reflexionar por favor! ✨,journal_prompt,neutral,low,es
+¿cómo funcionan el estrés y las emociones? por favor 😟,self_assess,neutral,medium,es
+"thanks, bye please 💜",thanks_goodbye,positive,low,en
+matarme porfa 😤,crisis_emergency,negative,high,es
+hey can we talk? rn 💜 / ¿podemos hablar?,greeting_start,neutral,medium,en
+??? please 🌿,fallback_clarify,neutral,low,en
+how do stress and emotions work?!! ✨,self_assess,neutral,medium,en
+spanish please. 😥,language_switch,neutral,low,en
+can we switch to english? please!!,language_switch,neutral,low,en
+¿con quién puedo charlar? ahora... 🌿,info_help,neutral,low,es
+??? please... 😟,fallback_clarify,neutral,low,en
+who can i talk to nearby? rn 😟,info_help,neutral,low,en
+¿qué pasa en mi cerebro? ahora. 😤,self_assess,neutral,medium,es
+information about support rn 🙏,info_help,neutral,low,en
+mmm... por favor! 🙏,fallback_clarify,neutral,low,es
+matarme porfa! 🙏,crisis_emergency,negative,high,es
+"thanks, bye rn!! 🌿",thanks_goodbye,positive,low,en
+i need a calm breathing routine pls!! ✨,breathing_exercise,neutral,medium,en
+why am i feeling this way?!! 😥 / ¿esto es normal?,self_assess,neutral,medium,en
+me quiero morir 💜,crisis_emergency,negative,high,es
+"gracias, adiós porfa 😤",thanks_goodbye,positive,low,es
+inglés por favor porfa... 🌿,language_switch,neutral,low,es
+me quiero morir! ✨,crisis_emergency,negative,high,es
+is anyone there? pls 🌿,greeting_start,neutral,medium,en
+necesito arraigarme por favor! 😟,grounding_exercise,negative,medium,es
+cambiemos a inglés pls...,language_switch,neutral,low,es
+un ejercicio de arraigo. 😔,grounding_exercise,negative,medium,es
+¿hay alguien? ahora!!,greeting_start,neutral,medium,es
+hmm rn 😥,fallback_clarify,neutral,low,en
+"this supported, goodnight pls... 💜",thanks_goodbye,positive,low,en
+ayúdame a respirar por favor!! 😔,breathing_exercise,neutral,medium,es
+breathing exercise please. 🙏,breathing_exercise,neutral,medium,en
+podría tener una sobredosis por favor! 🙏,crisis_emergency,negative,high,es
+what help options can support?...,info_help,neutral,low,en
+spanish please... 😥,language_switch,neutral,low,en
+necesito calmarme con respiración ahora 😟,breathing_exercise,neutral,medium,es
+"this helped, goodnight tbh 🙏",thanks_goodbye,positive,low,en
+un ejercicio de respiración porfa!! 😥 / can you help me breathe?,breathing_exercise,neutral,medium,es
+estoy como desconectado por favor!! 😟 / i'm angry,check_in_mood,negative,high,es
+journal prompt please!! 😟,journal_prompt,neutral,low,en
+i feel sad today please. ✨,check_in_mood,negative,high,en
+spanish please... 😔,language_switch,neutral,low,en
+need reassurance tbh... 😥,affirmation_request,neutral,low,en
+me estoy desconectando pls!! 🌿,grounding_exercise,negative,medium,es
+"gracias, adiós ahora... 😤 / i'll come back later",thanks_goodbye,positive,low,es
+hey can we chat? rn! 😥,greeting_start,neutral,medium,en
+me estoy desconectando! 😟 / grounding exercise please,grounding_exercise,negative,medium,es
+i will hurt myself please!! 😟,crisis_emergency,negative,high,en
+"gracias, adiós ahora!! 💜",thanks_goodbye,positive,low,es
+vuelvo luego por favor. 😤,thanks_goodbye,positive,low,es
+me siento decaído!! 😔,check_in_mood,negative,high,es
+i want to write about this please... 😥,journal_prompt,neutral,low,en
+no sé ahora! ✨,fallback_clarify,neutral,low,es
+give me a writing prompt.,journal_prompt,neutral,low,en
+i need something positive pls... 😔,affirmation_request,neutral,low,en
+i feel nervous tbh!! 😟,check_in_mood,negative,high,en
+english please pls ✨,language_switch,neutral,low,en
+breathing exercise please rn!! 😔,breathing_exercise,neutral,medium,en
+estoy como desconectado. 😥,check_in_mood,negative,high,es
+un ejercicio de arraigo por favor. 😥,grounding_exercise,negative,medium,es
+support me ground pls 😤,grounding_exercise,negative,medium,en
+¿por qué me siento así? ahora... 😔,self_assess,neutral,medium,es
+¿hay alguien? por favor! 🌿,greeting_start,neutral,medium,es
+eso es todo por ahora pls! 😟,thanks_goodbye,positive,low,es
+i need something positive please 😟,affirmation_request,neutral,low,en
+me siento ansioso por favor... 😔,check_in_mood,negative,high,es
+help me steady please. 😔,grounding_exercise,negative,medium,en
+ayúdame a respirar! 🙏,breathing_exercise,neutral,medium,es
+is this normal? rn. 🌿,self_assess,neutral,medium,en
+hello rn. ✨,greeting_start,neutral,medium,en
+ayúdame a respirar ahora... 😤,breathing_exercise,neutral,medium,es
+🤔 rn. 😔,fallback_clarify,neutral,low,en
+give me an affirmation. 😤,affirmation_request,neutral,low,en
+"thanks, bye tbh. 🌿",thanks_goodbye,positive,low,en
+una consigna para escribir pls... 😟 / give me a writing prompt,journal_prompt,neutral,low,es
+¿con quién puedo hablar?! 🌿,info_help,neutral,low,es
+need to feel present pls... 🙏,grounding_exercise,negative,medium,en
+información de apoyo porfa! 😥,info_help,neutral,low,es
+matarme ahora! 💜,crisis_emergency,negative,high,es
+spanish please pls. 😔,language_switch,neutral,low,en
+i feel blue today please 😟,check_in_mood,negative,high,en
+i’m in danger right now ✨,crisis_emergency,negative,high,en
+🤔 por favor! 😔,fallback_clarify,neutral,low,es
+can we switch to english? pls. 😥,language_switch,neutral,low,en
+podría tener una sobredosis pls! 😤,crisis_emergency,negative,high,es
+can you support me breathe? please 💜,breathing_exercise,neutral,medium,en
+"thanks, bye rn. 🙏 / me ayudó, buenas noches",thanks_goodbye,positive,low,en
+estoy como desconectado pls! 🙏 / i feel sad today,check_in_mood,negative,high,es
+necesito calmarme con respiración ahora!! / can you help me breathe?,breathing_exercise,neutral,medium,es
+necesito arraigarme por favor... 🌿 / grounding exercise please,grounding_exercise,negative,medium,es
+quiero una frase de apoyo pls 😔,affirmation_request,neutral,low,es
+i feel sad today... ✨ / me siento triste,check_in_mood,negative,high,en
+matarme porfa... 🙏,crisis_emergency,negative,high,es
+me siento nervioso pls... ✨,check_in_mood,negative,high,es
+give me a writing prompt!! 💜,journal_prompt,neutral,low,en
+opciones de apoyo no urgente por favor. 😔,info_help,neutral,low,es
+vuelvo luego porfa. 😔,thanks_goodbye,positive,low,es
+spanish mode!! 😥,language_switch,neutral,low,en
+i feel down today 😤,check_in_mood,negative,high,en
+necesito arraigarme porfa,grounding_exercise,negative,medium,es
+quiero una frase de apoyo por favor! 🙏,affirmation_request,neutral,low,es
+"thanks, bye!! 😔 / vuelvo luego",thanks_goodbye,positive,low,en
+i'll come back later pls... 😔,thanks_goodbye,positive,low,en
+¿qué pasa en mi cerebro? pls 🙏,self_assess,neutral,medium,es
+un ejercicio de respiración... 😤,breathing_exercise,neutral,medium,es
+¿cómo funcionan el estrés y las emociones? pls. 😔,self_assess,neutral,medium,es
+¿hay alguien? ahora. ✨,greeting_start,neutral,medium,es
+hello tbh... 🙏,greeting_start,neutral,medium,en
+non-emergency help options tbh! / opciones de ayuda no urgente,info_help,neutral,low,en
+hello rn!,greeting_start,neutral,medium,en
+eso es todo por ahora pls... 😥,thanks_goodbye,positive,low,es
+can you support me breathing?! 🙏,breathing_exercise,neutral,medium,en
+??? rn,fallback_clarify,neutral,low,en
+breathing exercise please!! 😔,breathing_exercise,neutral,medium,en
+información de apoyo porfa. 😟,info_help,neutral,low,es
+i feel numb tbh 😤,check_in_mood,negative,high,en
+i want to die. ✨,crisis_emergency,negative,high,en
+who can i talk to nearby? tbh...,info_help,neutral,low,en
+"thanks, bye tbh 😥",thanks_goodbye,positive,low,en
+un ejercicio de arraigo!! 🌿,grounding_exercise,negative,medium,es
+give me an affirmation tbh ✨ / dame una afirmación,affirmation_request,neutral,low,en
+i’m in danger right now tbh! ✨,crisis_emergency,negative,high,en
+steadying exercise please rn. 😥,grounding_exercise,negative,medium,en
+hello tbh 😥 / ¿hay alguien?,greeting_start,neutral,medium,en
+i feel blue today please...,check_in_mood,negative,high,en
+english please. 💜,language_switch,neutral,low,en
+¿podemos charlar? pls. 🌿,greeting_start,neutral,medium,es
+i feel sad today please. 😤,check_in_mood,negative,high,en
+i need something positive rn!! 🌿,affirmation_request,neutral,low,en
+no sé ahora! 🙏 / idk,fallback_clarify,neutral,low,es
+give me a writing prompt rn. 😤,journal_prompt,neutral,low,en
+i want to die please! 💜,crisis_emergency,negative,high,en
+information about support! 🙏,info_help,neutral,low,en
+i want to write about this tbh... 😥,journal_prompt,neutral,low,en
+kill myself. 😟,crisis_emergency,negative,high,en
+estoy molesto ahora...,check_in_mood,negative,high,es
+necesito chatear porfa!! 😥,greeting_start,neutral,medium,es
+i’m in danger right now 😥,crisis_emergency,negative,high,en
+¿esto es normal? porfa. 😟,self_assess,neutral,medium,es
+grounding exercise please pls! ✨,grounding_exercise,negative,medium,en
+hey can we chat? pls!! 😟 / ¿hay alguien?,greeting_start,neutral,medium,en
+journal prompt please pls. 😔,journal_prompt,neutral,low,en
+i want to write about this tbh! 🌿,journal_prompt,neutral,low,en
+mmm... pls. 🙏,fallback_clarify,neutral,low,es
+??? rn. 😤,fallback_clarify,neutral,low,en
+hi!! 💜,greeting_start,neutral,medium,en
+need reassurance please ✨,affirmation_request,neutral,low,en
+i feel anxious! 🌿 / estoy enojado,check_in_mood,negative,high,en
+necesito arraigarme ahora...,grounding_exercise,negative,medium,es
+ayúdame a respirar ahora!! 🌿 / i need a calm breathing routine,breathing_exercise,neutral,medium,es
+i need a calm breathing routine please. 😔 / necesito calmarme con respiración,breathing_exercise,neutral,medium,en
+who can i talk to nearby? pls... 😥,info_help,neutral,low,en
+i'm mad... 💜,check_in_mood,negative,high,en
+non-emergency support options rn! 💜,info_help,neutral,low,en
+say something encouraging please. ✨,affirmation_request,neutral,low,en
+i'm panicky tbh! ✨,check_in_mood,negative,high,en
+i need to chat tbh. 🌿,greeting_start,neutral,medium,en
+opciones de apoyo no urgente pls 😥,info_help,neutral,low,es
+me estoy desconectando por favor!! 🙏,grounding_exercise,negative,medium,es
+inglés por favor porfa. 😔,language_switch,neutral,low,es
+ayúdame a reflexionar pls 💜,journal_prompt,neutral,low,es
+"thanks, bye rn!! 😤",thanks_goodbye,positive,low,en
+give me an affirmation rn. 😟 / dame una afirmación,affirmation_request,neutral,low,en
+that’s all for now... 🙏,thanks_goodbye,positive,low,en
+necesito algo positivo pls... 🙏,affirmation_request,neutral,low,es
+estoy en peligro ahora pls,crisis_emergency,negative,high,es
+me siento triste pls. 🌿 / i feel sad today,check_in_mood,negative,high,es
+i might overdose tbh... 😔,crisis_emergency,negative,high,en
+i’m dissociating tbh. ✨,grounding_exercise,negative,medium,en
+who can i talk to nearby? pls... 😥 / ¿con quién puedo hablar?,info_help,neutral,low,en
+podría tener una sobredosis porfa... 🙏,crisis_emergency,negative,high,es
+who can i chat to nearby? tbh... 😥,info_help,neutral,low,en
+that’s all for now please! 🌿,thanks_goodbye,positive,low,en
+what please. 😟,fallback_clarify,neutral,low,en
+breathing exercise please please,breathing_exercise,neutral,medium,en
+información de apoyo pls... 🙏,info_help,neutral,low,es
+necesito algo positivo porfa 😟,affirmation_request,neutral,low,es
+¿podemos charlar? pls... 🌿,greeting_start,neutral,medium,es
+need to feel present tbh! 😟,grounding_exercise,negative,medium,en
+un ejercicio de respiración ahora!!,breathing_exercise,neutral,medium,es
+what support options can help? 💜,info_help,neutral,low,en
+anchoring exercise please pls!! 💜,grounding_exercise,negative,medium,en
+voy a lastimarme pls. 😥,crisis_emergency,negative,high,es
+un ejercicio de respirar porfa.,breathing_exercise,neutral,medium,es
+🤔 pls,fallback_clarify,neutral,low,es
+i feel down today... 😔 / estoy enojado,check_in_mood,negative,high,en
+opciones de ayuda no urgente porfa! 😟,info_help,neutral,low,es
+grounding exercise please! 😤,grounding_exercise,negative,medium,en
+mmm...!! ✨,fallback_clarify,neutral,low,es
+non-emergency support options pls 😟,info_help,neutral,low,en
+¿hay alguien?... 😔 / hey can we talk?,greeting_start,neutral,medium,es
+spanish mode please... 💜,language_switch,neutral,low,en
+cambiemos a inglés ✨,language_switch,neutral,low,es
+idk! ✨,fallback_clarify,neutral,low,en
+hablemos en español ahora! 🙏,language_switch,neutral,low,es
+give me an positive line pls!! 🙏 / necesito algo positivo,affirmation_request,neutral,low,en
+say something encouraging rn. 😥 / algo que me anime,affirmation_request,neutral,low,en
+algo que me anime por favor!! 😔,affirmation_request,neutral,low,es
+support me reflect tbh... ✨,journal_prompt,neutral,low,en
+¿con quién puedo hablar? por favor... 😤,info_help,neutral,low,es
+i'll come back later tbh! 😟,thanks_goodbye,positive,low,en
+un ejercicio de respirar por favor. 😤,breathing_exercise,neutral,medium,es
+spanish mode pls... 😟,language_switch,neutral,low,en
+hmm!! ✨,fallback_clarify,neutral,low,en
+"me ayudó, buenas noches porfa... 🙏",thanks_goodbye,positive,low,es
+modo español! 😟,language_switch,neutral,low,es
+assist me ground rn!! 😤,grounding_exercise,negative,medium,en
+kill myself... 😤,crisis_emergency,negative,high,en
+is this normal?... 😟,self_assess,neutral,medium,en
+eso es todo por ahora ahora. 💜 / i'll come back later,thanks_goodbye,positive,low,es
+hey can we chat? pls... 😥,greeting_start,neutral,medium,en
+idk rn 🙏,fallback_clarify,neutral,low,en
+matarme por favor 😟,crisis_emergency,negative,high,es
+necesito calmarme con respiración ahora... ✨,breathing_exercise,neutral,medium,es
+spanish mode 🙏,language_switch,neutral,low,en
+i'm mad rn. 😟,check_in_mood,negative,high,en
+hablemos en español! 😟,language_switch,neutral,low,es
+say something encouraging tbh! 🌿,affirmation_request,neutral,low,en
+inglés por favor ahora 💜,language_switch,neutral,low,es
+¿esto es normal? por favor!! 😔,self_assess,neutral,medium,es
+journal prompt please rn... 😥,journal_prompt,neutral,low,en
+modo español ahora 😔,language_switch,neutral,low,es
+opciones de ayuda no urgente porfa... 😟,info_help,neutral,low,es
+estoy en peligro ahora pls... 😥,crisis_emergency,negative,high,es
+eso es todo por ahora pls... 😔,thanks_goodbye,positive,low,es
+algo que me anime pls. 😟,affirmation_request,neutral,low,es
+assist me reflect tbh! 🙏,journal_prompt,neutral,low,en
+hey can we talk? please... 😔,greeting_start,neutral,medium,en
+hmm. 😤,fallback_clarify,neutral,low,en
+hmm. 😔,fallback_clarify,neutral,low,en
+i need a calm breathing routine pls 😔,breathing_exercise,neutral,medium,en
+why am i feeling this way? rn! 🌿,self_assess,neutral,medium,en
+i feel blue today rn... ✨,check_in_mood,negative,high,en
+i need a calm breathing routine rn! 💜,breathing_exercise,neutral,medium,en
+mmm... porfa!! 😟,fallback_clarify,neutral,low,es
+¿qué pasa en mi cerebro?... ✨,self_assess,neutral,medium,es
+i need a calm breathing routine please!! 😔 / necesito calmarme con respiración,breathing_exercise,neutral,medium,en
+hi pls!! 😔,greeting_start,neutral,medium,en
+i'll come back later please...,thanks_goodbye,positive,low,en
+support me steady please... ✨,grounding_exercise,negative,medium,en
+hmm tbh 😟,fallback_clarify,neutral,low,en
+say something encouraging rn. 😤,affirmation_request,neutral,low,en
+non-emergency help options please. 😥,info_help,neutral,low,en
+i'll come back later rn... 🌿,thanks_goodbye,positive,low,en
+"vuelvo luego porfa 😤 / thanks, bye",thanks_goodbye,positive,low,es
+how do stress and emotions work?!! 🌿,self_assess,neutral,medium,en
+🤔 😔,fallback_clarify,neutral,low,es
+"thanks, bye tbh... 🙏",thanks_goodbye,positive,low,en
+i will hurt myself tbh! 😔,crisis_emergency,negative,high,en
+is anyone there? tbh! 🌿,greeting_start,neutral,medium,en
+i want to write about this rn 😤,journal_prompt,neutral,low,en
+spanish please!! ✨,language_switch,neutral,low,en
+"gracias, adiós porfa! 💜",thanks_goodbye,positive,low,es
+¿con quién puedo charlar? por favor 💜,info_help,neutral,low,es
+me siento ansioso ahora...,check_in_mood,negative,high,es
+un ejercicio de respirar porfa. 😔,breathing_exercise,neutral,medium,es
+estoy molesto pls! 😟,check_in_mood,negative,high,es
+i feel down today please!! 💜,check_in_mood,negative,high,en
+quiero sentirme presente pls! 😟,grounding_exercise,negative,medium,es
+i need a calm breathing routine please. 💜,breathing_exercise,neutral,medium,en
+dame una afirmación ahora! 😤 / give me an affirmation,affirmation_request,neutral,low,es

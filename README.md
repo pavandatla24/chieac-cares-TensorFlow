@@ -1,4 +1,3 @@
-
 # ChiEAC CARES – Local Bilingual Emotional Support Chatbot (TensorFlow)
 
 **Local, privacy-first, bilingual (EN/ES)** chatbot that routes users to community co-designed self-regulation flows (breathing, grounding, affirmations, journaling). TensorFlow model detects **intent** and **emotional state**; rule-based safety layer flags crisis terms. Runs fully **offline/local**; zero recurring cost.
@@ -18,9 +17,8 @@ cd chieac-cares
 python -m venv .venv && source .venv/bin/activate  # (Windows: .venv\Scripts\activate)
 pip install -r requirements.txt
 python nlu/train.py              # trains a tiny model from seed data
-python app/chat.py               # starts local terminal chatbot
+python -m app.chat                # starts local terminal chatbot
 ```
-
 
 ## Structure
 
