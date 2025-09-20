@@ -18,6 +18,7 @@ python -m venv .venv && source .venv/bin/activate  # (Windows: .venv\Scripts\act
 pip install -r requirements.txt
 python nlu/train.py              # trains a tiny model from seed data
 python -m app.chat                # starts local terminal chatbot
+
 ```
 
 ## Structure
@@ -30,3 +31,9 @@ python -m app.chat                # starts local terminal chatbot
 ## Safety & Consent
 
 See `docs/consent.md` and `docs/safety_policy.md`. This tool is not medical care. If in danger, call/text **988** (U.S.) or your local emergency number.
+
+
+Traing building exporting and saving model  model-
+python -m nlu.train_en --data nlu/data/training_seed_english_only.csv --export nlu/export_en --epochs 3 --batch_size 32
+
+Python for getting english only dataset- python -c "import pandas as pd; df = pd.read_csv('nlu/data/training_seed_clean_fixed.csv'); df_en = df[df['lang'] == 'en'].copy(); df_en.to_csv('nlu/data/training_seed_english_only.csv', index=False); print(f'Created English-only dataset with {len(df_en)} samples'); print('Sample:'); print(df_en.head())"

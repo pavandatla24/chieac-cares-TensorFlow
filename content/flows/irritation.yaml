@@ -1,24 +1,19 @@
 id: irritation
 title: Irritation / Anger
-language_support: [en, es]
+language_support: [en]
 steps:
   - id: pause
     type: message
-    en: "Anger is energy. Let’s give it a safe path."
-    es: "La ira es energía. Démosle una salida segura."
+    en: "Anger is energy. Let's give it a safe path."
   - id: breath_box
     type: message
     en: "Try box breathing: inhale 4, hold 4, exhale 4, hold 4 — repeat 4 times."
-    es: "Prueba respiración en caja: inhala 4, mantén 4, exhala 4, mantén 4 — repite 4 veces."
   - id: label
     type: message
     en: "Can you name what triggered this (one word)?"
-    es: "¿Puedes nombrar qué lo detonó (una palabra)?"
   - id: reframe
     type: message
     en: "Your reaction makes sense. You can choose the next small step."
-    es: "Tu reacción tiene sentido. Puedes elegir el siguiente paso pequeño."
   - id: mood_post
     type: prompt
     en: "0–10, how do you feel now?"
-    es: "Del 0 al 10, ¿cómo te sientes ahora?"
