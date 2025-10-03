@@ -4,12 +4,18 @@ from app.safety import check_crisis
 
 def run():
     session = start_session()
-    print(Fore.CYAN + "ChiEAC CARES (English). Type 'exit' to quit.")
+    print(Fore.CYAN + "ChiEAC CARES (English). Type 'help' for tips, 'reset' to restart, 'exit' to quit.")
     while True:
         user = input(Fore.GREEN + "you: ")
         if user.strip().lower() == "exit":
             print(Fore.CYAN + "bye. take care.")
             break
+        if not user.strip():
+            print(Fore.MAGENTA + "bot: I’m here. You can type breathing / grounding / affirmation / journal, or say how you feel.")
+            continue
+        if user.strip().lower() in ("help", "?", "tips"):
+            print(Fore.MAGENTA + "bot: Try: 'breathing', 'grounding', 'affirmation', 'journal', or describe how you feel. Use 'reset' to restart a flow.")
+            continue
         # English only - no language detection needed
         crisis = check_crisis(user, "en")
         if crisis:

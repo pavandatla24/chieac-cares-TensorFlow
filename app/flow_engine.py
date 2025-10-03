@@ -15,6 +15,7 @@
 
 import os, yaml
 from app.router import guess_intent, intent_to_flow
+from app.storage_local import log_session_event
 
 FLOWS_DIR = os.path.join("content","flows")
 
@@ -79,17 +80,34 @@ def _handle_mood_response(text, session):
         if numbers:
             mood_score = int(numbers[0])
             if 0 <= mood_score <= 10:
-                session["mood_post"] = mood_score
                 session["awaiting_mood_response"] = False
-                
+
+                # If no pre-mood recorded yet, treat this as baseline
+                if session.get("mood_pre") is None:
+                    session["mood_pre"] = mood_score
+                    from app.storage_local import log_session_event
+                    log_session_event(session, "mood_baseline")
+                    return f"Thanks, noted your mood at {mood_score}/10."
+
+                # Otherwise this is a post-mood update
+                session["mood_post"] = mood_score
+
                 # Provide feedback based on mood change
-                pre_mood = session.get("mood_pre", 5)  # Default to 5 if no pre-mood
-                change = mood_score - pre_mood
+                pre_mood = session.get("mood_pre")
+                try:
+                    change = mood_score - int(pre_mood)
+                except Exception:
+                    change = None
                 
+                from app.storage_local import log_session_event
+                log_session_event(session, "mood_update")
+
+                if change is None:
+                    return f"Got it — you're at {mood_score}/10 now."
                 if change > 0:
                     return f"Great! You went from {pre_mood} to {mood_score}. That's improvement! 🌟"
                 elif change == 0:
-                    return f"You're holding steady at {mood_score}. That's okay - sometimes staying the same is progress too."
+                    return f"You're holding steady at {mood_score}. That's okay — sometimes staying the same is progress too."
                 else:
                     return f"You're at {mood_score} now. It's okay to have ups and downs. How can I help you further?"
         
@@ -134,6 +152,15 @@ def route_message(text, session, lang="en"):
         "language": "en"
     })
 
+    # Handle control commands
+    if isinstance(text, str) and text.strip().lower() in ("reset", "cancel", "restart"):
+        try:
+            log_session_event(session, "flow_reset")
+        except Exception:
+            pass
+        _reset_flow(session)
+        return "Reset. You can type breathing / grounding / affirmation / journal to start a new flow."
+
     # Handle mood responses (if user is responding to a mood prompt)
     if session.get("awaiting_mood_response"):
         return _handle_mood_response(text, session)
@@ -149,6 +176,7 @@ def route_message(text, session, lang="en"):
         session["flow_id"] = target
         session["step_idx"] = 0
         session["current_flow_data"] = None
+        log_session_event(session, "flow_start", {"intent": intent})
 
     # Load and validate flow
     flow = _ensure_flow_loaded(session)
@@ -158,7 +186,16 @@ def route_message(text, session, lang="en"):
     # Check if flow is complete
     steps = flow.get("steps", [])
     if session["step_idx"] >= len(steps):
-        msg = "We finished this flow. Type breathing / grounding / affirmation / journal to try another."
+        # Build completion message with optional mood summary
+        summary = ""
+        pre = session.get("mood_pre")
+        post = session.get("mood_post")
+        if isinstance(pre, int) and isinstance(post, int):
+            delta = post - pre
+            arrow = "+" if delta > 0 else ("±" if delta == 0 else "-")
+            summary = f" Mood change: {pre} -> {post} ({arrow}{abs(delta)})."
+        msg = "We finished this flow. Type breathing / grounding / affirmation / journal to try another." + summary
+        log_session_event(session, "flow_complete")
         _reset_flow(session)
         return msg
 
@@ -173,6 +210,7 @@ def route_message(text, session, lang="en"):
     else:
         session["awaiting_mood_response"] = False
         out = _render_step(step, "en")
+        log_session_event(session, "flow_step", {"step_id": step.get("id")})
         return out or "(empty step)"
 
 def get_available_flows():
