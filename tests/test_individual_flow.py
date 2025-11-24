@@ -5,7 +5,7 @@ Test individual flows to verify they work correctly
 
 import sys
 import os
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from app.flow_engine import start_session, route_message, load_flow
 

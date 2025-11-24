@@ -1,0 +1,8 @@
+{
+  "intent_classes": 11,
+  "valence_classes": 3,
+  "arousal_classes": 3,
+  "shared_units": 256,
+  "dropout_rate": 0.2,
+  "hub_url": "https://tfhub.dev/google/universal-sentence-encoder/4"
+}

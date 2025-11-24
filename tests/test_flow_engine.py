@@ -6,7 +6,7 @@ Tests the conversation flow routing and session management
 
 import sys
 import os
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from app.flow_engine import start_session, route_message, get_available_flows, validate_flow_exists
 from app.router import guess_intent, intent_to_flow

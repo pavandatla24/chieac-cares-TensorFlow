@@ -1,0 +1,32 @@
+{
+  "breathing_exercise": {
+    "accuracy": 1.0,
+    "correct": 5,
+    "total": 5
+  },
+  "grounding_technique": {
+    "accuracy": 0.0,
+    "correct": 0,
+    "total": 5
+  },
+  "affirmation": {
+    "accuracy": 0.0,
+    "correct": 0,
+    "total": 5
+  },
+  "journal_prompt": {
+    "accuracy": 0.4,
+    "correct": 2,
+    "total": 5
+  },
+  "anger_management": {
+    "accuracy": 0.0,
+    "correct": 0,
+    "total": 5
+  },
+  "crisis_emergency": {
+    "accuracy": 0.0,
+    "correct": 0,
+    "total": 5
+  }
+}

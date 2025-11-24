@@ -2,9 +2,6 @@ id: panic
 title: Panic / Overwhelm
 language_support: [en]
 steps:
-  - id: consent_check
-    type: message
-    en: "I'm here with you. Before we start: this is not medical care. If you're in danger or might harm yourself, reply 'HELP'."
   - id: breathe_intro
     type: message
     en: "Let's slow things down together. We'll try a short 4–4–6 breath."

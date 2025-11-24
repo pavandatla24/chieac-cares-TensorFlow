@@ -5,6 +5,8 @@ from app.safety import check_crisis
 def run():
     session = start_session()
     print(Fore.CYAN + "ChiEAC CARES (English). Type 'help' for tips, 'reset' to restart, 'exit' to quit.")
+    # Show welcome message immediately
+    print(Fore.MAGENTA + "bot: I'm here with you. Before we start: this is not medical care. If you're in danger or might harm yourself, reply 'HELP'. How can I help you today? You can try breathing exercises, grounding techniques, affirmations, or journal prompts. Or just tell me how you're feeling.")
     while True:
         user = input(Fore.GREEN + "you: ")
         if user.strip().lower() == "exit":

@@ -51,17 +51,23 @@ class NLUModel:
         """Fallback keyword-based intent detection"""
         t = text.lower()
         
-        if any(word in t for word in ["breath", "breathe", "calm", "panic", "anxious"]):
+        if any(word in t for word in ["breath", "breathe", "calm", "panic", "anxious", "overwhelmed", "hyperventilating"]):
             return "breathing_exercise"
-        elif any(word in t for word in ["ground", "present", "dissociate", "numb", "disconnect"]):
+        elif any(word in t for word in ["ground", "present", "dissociate", "numb", "disconnect", "spaced out", "detached", "floating", "dissociating"]):
             return "grounding_exercise"
-        elif any(word in t for word in ["affirm", "positive", "reassurance", "support"]):
+        elif any(word in t for word in ["affirm", "positive", "reassurance", "support", "encouragement", "hopeless", "low", "down"]):
             return "affirmation_request"
-        elif any(word in t for word in ["journal", "write", "prompt"]):
+        elif any(word in t for word in ["journal", "write", "prompt", "reflect", "process", "thoughts"]):
             return "journal_prompt"
+        elif any(word in t for word in ["angry", "anger", "irritated", "frustrated", "mad", "furious", "rage", "livid", "punch"]):
+            return "anger_management"
+        elif any(word in t for word in ["sad", "sadness", "depressed", "down", "blue"]):
+            return "affirmation_request"  # Map sadness to affirmation flow
+        elif any(word in t for word in ["good", "fine", "okay", "ok", "great", "better", "thanks", "thank you", "all set"]):
+            return "thanks_goodbye"
         elif any(word in t for word in ["hi", "hello", "help", "talk"]):
             return "greeting_start"
-        elif any(word in t for word in ["sad", "angry", "anxious", "overwhelmed", "feel"]):
+        elif any(word in t for word in ["anxious", "overwhelmed", "feel"]):
             return "check_in_mood"
         else:
             return "fallback_clarify"
@@ -120,17 +126,23 @@ def _fallback_intent_detection(text: str) -> str:
     t = text.lower()
     
     # Simple keyword patterns as fallback
-    if any(word in t for word in ["breath", "breathe", "calm", "panic", "anxious"]):
+    if any(word in t for word in ["breath", "breathe", "calm", "panic", "anxious", "overwhelmed", "hyperventilating"]):
         return "breathing_exercise"
-    elif any(word in t for word in ["ground", "present", "dissociate", "numb"]):
+    elif any(word in t for word in ["ground", "present", "dissociate", "numb", "spaced out", "detached", "floating", "dissociating"]):
         return "grounding_exercise"
-    elif any(word in t for word in ["affirm", "positive", "reassurance"]):
+    elif any(word in t for word in ["affirm", "positive", "reassurance", "encouragement", "hopeless", "low", "down"]):
         return "affirmation_request"
-    elif any(word in t for word in ["journal", "write", "prompt"]):
+    elif any(word in t for word in ["journal", "write", "prompt", "reflect", "process", "thoughts"]):
         return "journal_prompt"
+    elif any(word in t for word in ["angry", "anger", "irritated", "frustrated", "mad", "furious", "rage", "livid", "punch"]):
+        return "anger_management"
+    elif any(word in t for word in ["sad", "sadness", "depressed", "down", "blue"]):
+        return "affirmation_request"  # Map sadness to affirmation flow
+    elif any(word in t for word in ["good", "fine", "okay", "ok", "great", "better", "thanks", "thank you", "all set"]):
+        return "thanks_goodbye"
     elif any(word in t for word in ["hi", "hello", "help", "talk"]):
         return "greeting_start"
-    elif any(word in t for word in ["sad", "angry", "anxious", "overwhelmed"]):
+    elif any(word in t for word in ["anxious", "overwhelmed"]):
         return "check_in_mood"
     else:
         return "fallback_clarify"

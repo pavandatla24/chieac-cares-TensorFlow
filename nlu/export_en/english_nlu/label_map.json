@@ -1,0 +1,25 @@
+{
+  "intent": {
+    "greeting_start": 0,
+    "check_in_mood": 1,
+    "breathing_exercise": 2,
+    "grounding_exercise": 3,
+    "affirmation_request": 4,
+    "journal_prompt": 5,
+    "info_help": 6,
+    "self_assess": 7,
+    "thanks_goodbye": 8,
+    "crisis_emergency": 9,
+    "fallback_clarify": 10
+  },
+  "valence": {
+    "negative": 0,
+    "neutral": 1,
+    "positive": 2
+  },
+  "arousal": {
+    "low": 0,
+    "medium": 1,
+    "high": 2
+  }
+}

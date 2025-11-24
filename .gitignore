@@ -1,7 +1,7 @@
 __pycache__/
 *.pyc
 .nlu_cache/
-nlu/export/
-nlu/export_en/
+# nlu/export/
+# nlu/export_en/
 .env
 venv/
