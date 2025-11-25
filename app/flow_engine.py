@@ -339,6 +339,21 @@ def route_message(text, session, lang="en"):
                 return f"I didn't quite understand that. You can type 'done' or 'okay' to continue, or tell me if you want to try something else.\n\n{current_step_msg}"
     
     # Input is valid - show current step, then advance for next time
+    # Safety check: ensure step_idx is within bounds
+    if session["step_idx"] >= len(steps):
+        # Flow is complete, but we got here somehow - reset and return completion message
+        _reset_flow(session)
+        return "We finished this flow. Type breathing / grounding / affirmation / journal to try another."
+    
+    # Prevent showing the same step we just showed (safety check)
+    # If step_idx points to the step user just responded to, advance it first
+    if session["step_idx"] == responding_to_step_idx:
+        # This shouldn't happen, but if it does, advance to next step
+        session["step_idx"] = responding_to_step_idx + 1
+        if session["step_idx"] >= len(steps):
+            _reset_flow(session)
+            return "We finished this flow. Type breathing / grounding / affirmation / journal to try another."
+    
     current_step = steps[session["step_idx"]]
     
     # Check if this is the last step
